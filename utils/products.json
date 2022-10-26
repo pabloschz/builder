@@ -1,0 +1,1905 @@
+{
+    "items": [
+        {
+            "product": {
+                "tax-category": "standard-taxable",
+                "_archived": false,
+                "_draft": false,
+                "shippable": true,
+                "featured": false,
+                "best-seller": false,
+                "ec-product-type": "ff42fee0113744f693a764e3431a9cc2",
+                "tab-description": "<p>Das Magic Keyboard ist die perfekte Ergänzung für das iPad Pro. Es ist jetzt in zwei Farben erhältlich und gibt dir ein angenehmes und reaktionsschnelles Gefühl beim Tippen. Mit dem Trackpad bekommst du ganz neue Möglichkeiten zu arbeiten, und es hat einen USB-C Anschluss zum Laden, eine beleuchtete Tastatur und schützt die Vorder- und Rückseite. Mit einem freischwebenden Design hält das iPad magnetisch und du kannst stufenlos den perfekten Betrachtungswinkel für dich einstellen.</p>",
+                "name": "Apple Magic Keyboard - iPad Pro 12.9\"",
+                "tab-spec": "<p><strong>LAYOUT</strong><br>QWERTZ</p><p><strong>FEATURE</strong><br>Backlit</p><p><strong>GRÖSSE</strong><br>29 x 23.8 x 2.3 cm • 1.12 kg</p><p><strong>CONNECTIVITY</strong><br>Large multi-touch trackpad</p>",
+                "farbe": "Schwarz",
+                "slug": "apple-magic-keyboard-ipad-pro-12-9",
+                "category": [
+                    "62f3ba14f4e3f7b3d1eae901",
+                    "62f3ba14f4e3f727baeae85c"
+                ],
+                "updated-on": "2022-06-03T09:43:12.794Z",
+                "updated-by": "Person_61448830203e445829eda6fc",
+                "created-on": "2022-04-07T14:01:47.411Z",
+                "created-by": "Person_612e174dabd9b316fb4e95c8",
+                "published-on": "2022-08-10T14:01:27.937Z",
+                "published-by": "Person_60c74c7904ca1d8dd12da332",
+                "sku-properties": [
+                    {
+                        "id": "325efa485f3b8f5459710d7c88122707",
+                        "name": "Mindestmietdauer (in Monaten)",
+                        "enum": [
+                            {
+                                "id": "da270e68c4ee1041ce34af75c1ea4e0d",
+                                "name": "1+",
+                                "slug": "1"
+                            },
+                            {
+                                "id": "5a3349d78e2ec5ae776dbe63c2786a27",
+                                "name": "3+",
+                                "slug": "3"
+                            },
+                            {
+                                "id": "95538da97046a268d36d4eee6389c941",
+                                "name": "6+",
+                                "slug": "6"
+                            },
+                            {
+                                "id": "4d59b23047552ddbc68e4640d17fc4b9",
+                                "name": "12+",
+                                "slug": "12"
+                            }
+                        ]
+                    }
+                ],
+                "default-sku": "62f3ba14f4e3f732e6eaeadb",
+                "gallery-image-1": {
+                    "fileId": "62f3ba14f4e3f73ccdeaed22",
+                    "url": "https://uploads-ssl.webflow.com/62a1a51f676e59213961f1a2/62a1a51f676e5981fe61f7da_Magic%20Keyboard%2012_ProductView2.png",
+                    "alt": null
+                },
+                "image-with-the-price-tag": {
+                    "fileId": "62f3ba14f4e3f76091eaed1a",
+                    "url": "https://uploads-ssl.webflow.com/62a1a51f676e59213961f1a2/62a1a51f676e597aab61f7db_Magic%20Keyboard%2012_HeroImage.png",
+                    "alt": null
+                },
+                "_cid": "62f3ba14f4e3f7056beae80a",
+                "_id": "62f3ba14f4e3f76effeaead7",
+                "hasCorruptVariants": false
+            },
+            "skus": [
+                {
+                    "_archived": false,
+                    "_draft": false,
+                    "price": {
+                        "value": 2090,
+                        "unit": "CHF"
+                    },
+                    "sku-values": {
+                        "325efa485f3b8f5459710d7c88122707": "95538da97046a268d36d4eee6389c941"
+                    },
+                    "more-images": [],
+                    "download-files": [],
+                    "name": "Apple Magic Keyboard - iPad Pro 12.9\" Mindestmietdauer (in Monaten): 6+",
+                    "sku": "89-0000-06",
+                    "slug": "apple-magic-keyboard-ipad-pro-12-9-mindestmietdauer-in-monaten-6",
+                    "product": "62f3ba14f4e3f76effeaead7",
+                    "updated-on": "2022-06-03T09:43:11.471Z",
+                    "updated-by": "Person_61448830203e445829eda6fc",
+                    "created-on": "2022-04-07T14:03:48.316Z",
+                    "created-by": "Person_612e174dabd9b316fb4e95c8",
+                    "published-on": "2022-08-10T14:01:27.937Z",
+                    "published-by": "Person_60c74c7904ca1d8dd12da332",
+                    "main-image": {
+                        "fileId": "62f3ba14f4e3f7a1b2eaed20",
+                        "url": "https://uploads-ssl.webflow.com/62a1a51f676e59213961f1a2/62a1a51f676e59bf5f61f7dc_Magic%20Keyboard%2012_ProductView1.png",
+                        "alt": null
+                    },
+                    "_cid": "62f3ba14f4e3f71f87eae81e",
+                    "_id": "62f3ba14f4e3f7de68eaeadc"
+                },
+                {
+                    "_archived": false,
+                    "_draft": false,
+                    "price": {
+                        "value": 1490,
+                        "unit": "CHF"
+                    },
+                    "sku-values": {
+                        "325efa485f3b8f5459710d7c88122707": "4d59b23047552ddbc68e4640d17fc4b9"
+                    },
+                    "more-images": [],
+                    "download-files": [],
+                    "name": "Apple Magic Keyboard - iPad Pro 12.9\" Mindestmietdauer (in Monaten): 12+",
+                    "sku": "89-0000-12",
+                    "slug": "apple-magic-keyboard-ipad-pro-12-9-mindestmietdauer-in-monaten-12",
+                    "product": "62f3ba14f4e3f76effeaead7",
+                    "updated-on": "2022-06-03T09:43:11.656Z",
+                    "updated-by": "Person_61448830203e445829eda6fc",
+                    "created-on": "2022-04-07T14:03:47.823Z",
+                    "created-by": "Person_612e174dabd9b316fb4e95c8",
+                    "published-on": "2022-08-10T14:01:27.937Z",
+                    "published-by": "Person_60c74c7904ca1d8dd12da332",
+                    "main-image": {
+                        "fileId": "62f3ba14f4e3f7a1b2eaed20",
+                        "url": "https://uploads-ssl.webflow.com/62a1a51f676e59213961f1a2/62a1a51f676e59bf5f61f7dc_Magic%20Keyboard%2012_ProductView1.png",
+                        "alt": null
+                    },
+                    "_cid": "62f3ba14f4e3f71f87eae81e",
+                    "_id": "62f3ba14f4e3f732e6eaeadb"
+                },
+                {
+                    "_archived": false,
+                    "_draft": false,
+                    "price": {
+                        "value": 2990,
+                        "unit": "CHF"
+                    },
+                    "sku-values": {
+                        "325efa485f3b8f5459710d7c88122707": "5a3349d78e2ec5ae776dbe63c2786a27"
+                    },
+                    "more-images": [],
+                    "download-files": [],
+                    "name": "Apple Magic Keyboard - iPad Pro 12.9\" Mindestmietdauer (in Monaten): 3+",
+                    "sku": "89-0000-03",
+                    "slug": "apple-magic-keyboard-ipad-pro-12-9-mindestmietdauer-in-monaten-3",
+                    "product": "62f3ba14f4e3f76effeaead7",
+                    "updated-on": "2022-06-03T09:43:12.265Z",
+                    "updated-by": "Person_61448830203e445829eda6fc",
+                    "created-on": "2022-04-07T14:03:47.576Z",
+                    "created-by": "Person_612e174dabd9b316fb4e95c8",
+                    "published-on": "2022-08-10T14:01:27.937Z",
+                    "published-by": "Person_60c74c7904ca1d8dd12da332",
+                    "main-image": {
+                        "fileId": "62f3ba14f4e3f7a1b2eaed20",
+                        "url": "https://uploads-ssl.webflow.com/62a1a51f676e59213961f1a2/62a1a51f676e59bf5f61f7dc_Magic%20Keyboard%2012_ProductView1.png",
+                        "alt": null
+                    },
+                    "_cid": "62f3ba14f4e3f71f87eae81e",
+                    "_id": "62f3ba14f4e3f7608deaead8"
+                },
+                {
+                    "_archived": false,
+                    "_draft": false,
+                    "price": {
+                        "value": 5090,
+                        "unit": "CHF"
+                    },
+                    "sku-values": {
+                        "325efa485f3b8f5459710d7c88122707": "da270e68c4ee1041ce34af75c1ea4e0d"
+                    },
+                    "sku": "89-0000-01",
+                    "more-images": [],
+                    "download-files": [],
+                    "name": "Apple Magic Keyboard - iPad Pro 12.9\" Mindestmietdauer (in Monaten): 1+",
+                    "slug": "apple-magic-keyboard-ipad-pro-12-9-mindestmietdauer-in-monaten-1",
+                    "product": "62f3ba14f4e3f76effeaead7",
+                    "updated-on": "2022-06-03T09:43:11.542Z",
+                    "updated-by": "Person_61448830203e445829eda6fc",
+                    "created-on": "2022-04-07T14:01:48.318Z",
+                    "created-by": "Person_612e174dabd9b316fb4e95c8",
+                    "published-on": "2022-08-10T14:01:27.937Z",
+                    "published-by": "Person_60c74c7904ca1d8dd12da332",
+                    "main-image": {
+                        "fileId": "62f3ba14f4e3f7a1b2eaed20",
+                        "url": "https://uploads-ssl.webflow.com/62a1a51f676e59213961f1a2/62a1a51f676e59bf5f61f7dc_Magic%20Keyboard%2012_ProductView1.png",
+                        "alt": null
+                    },
+                    "_cid": "62f3ba14f4e3f71f87eae81e",
+                    "_id": "62f3ba14f4e3f76685eaeada"
+                }
+            ]
+        },
+        {
+            "product": {
+                "tax-category": "standard-taxable",
+                "_archived": false,
+                "_draft": false,
+                "shippable": true,
+                "featured": false,
+                "best-seller": false,
+                "ec-product-type": "ff42fee0113744f693a764e3431a9cc2",
+                "tab-description": "<p>Mit einem 3-achsigen Kardanring, der verwackeltes Material effektiv reduziert, liefert Osmo Mobile 3 ein superglattes, stabilisiertes Bild. Ein leichtes, extrem reaktionsschnelles Design reagiert auf Ihre Bewegungen in Echtzeit, so dass Sie sich mehr auf den Moment konzentrieren können.</p><p>Ein schlankes, faltbares Design ermöglicht es, Osmo Mobile 3 überall hin mitzunehmen. Mit einem Gewicht von nur 405 g ist es tragbar, leicht und unglaublich praktisch, um einen Rucksack für Ihr nächstes Abenteuer mitzunehmen. Im Standby-Modus können Sie Ihr Smartphone verwenden, wenn der Kardanring eingeklappt ist, so dass Sie im Handumdrehen wieder mit der Aufnahme beginnen können.</p><p>‍</p>",
+                "name": "DJI Osmo Mobile 3",
+                "tab-spec": "<p><strong>SMARTPHONE ZUBEHÖRTYP<br></strong>Foto / Video, Gimbal</p><p><strong>PASSENDE MODELLE<br></strong>Universal</p><p><strong>LIEFERUMFANG<br></strong>Stoffbeutel, USB A-C Kabel</p><p><strong>GRÖSSE</strong><br>28,5 x 12,5 x 10,5, 0.405 Kg</p><p>‍</p>",
+                "farbe": "Grau",
+                "slug": "dji-osmo-mobile-3",
+                "category": [
+                    "62f3ba14f4e3f727baeae85c"
+                ],
+                "updated-on": "2022-06-03T10:12:44.702Z",
+                "updated-by": "Person_61448830203e445829eda6fc",
+                "created-on": "2022-04-07T13:54:32.764Z",
+                "created-by": "Person_612e174dabd9b316fb4e95c8",
+                "published-on": "2022-08-10T14:01:27.937Z",
+                "published-by": "Person_60c74c7904ca1d8dd12da332",
+                "sku-properties": [
+                    {
+                        "id": "3f321d37f243a30c695ca918d32bde76",
+                        "name": "Mindestmietdauer (in Monaten)",
+                        "enum": [
+                            {
+                                "id": "8bb742661e100bc7551d023013e630db",
+                                "name": "1+",
+                                "slug": "1"
+                            },
+                            {
+                                "id": "4e2a179588c57595dacfc20f9bffe0a6",
+                                "name": "3+",
+                                "slug": "3"
+                            },
+                            {
+                                "id": "f22197a43e7ac35b467a53c190a6130f",
+                                "name": "6+",
+                                "slug": "6"
+                            },
+                            {
+                                "id": "c058c4167eba6db0a026d39e57d058c3",
+                                "name": "12+",
+                                "slug": "12"
+                            }
+                        ]
+                    }
+                ],
+                "default-sku": "62f3ba14f4e3f710e9eaeae4",
+                "gallery-image-1": {
+                    "fileId": "62f3ba14f4e3f7772deaed2d",
+                    "url": "https://uploads-ssl.webflow.com/62a1a51f676e59213961f1a2/62a1a51f676e5909c661f7e1_Dji-Osmo-Mobile-3_ProductView2.png",
+                    "alt": null
+                },
+                "gallery-image-2": {
+                    "fileId": "62f3ba14f4e3f73fbceaed21",
+                    "url": "https://uploads-ssl.webflow.com/62a1a51f676e59213961f1a2/62a1a51f676e59677d61f7e2_Dji-Osmo-Mobile-3_ProductView1.png",
+                    "alt": null
+                },
+                "_cid": "62f3ba14f4e3f7056beae80a",
+                "_id": "62f3ba14f4e3f7197aeaeae1",
+                "hasCorruptVariants": false
+            },
+            "skus": [
+                {
+                    "_archived": false,
+                    "_draft": false,
+                    "main-image": {
+                        "fileId": "62f3ba14f4e3f7109aeaed24",
+                        "url": "https://uploads-ssl.webflow.com/62a1a51f676e59213961f1a2/62a1a51f676e59354b61f7e3_Dji-Osmo-Mobile-3_ProductView3.png",
+                        "alt": null
+                    },
+                    "price": {
+                        "value": 690,
+                        "unit": "CHF"
+                    },
+                    "sku-values": {
+                        "3f321d37f243a30c695ca918d32bde76": "c058c4167eba6db0a026d39e57d058c3"
+                    },
+                    "more-images": [],
+                    "download-files": [],
+                    "name": "DJI Osmo Mobile 3 Mindestmietdauer (in Monaten): 12+",
+                    "sku": "87-0000-12",
+                    "slug": "dji-osmo-mobile-3-mindestmietdauer-in-monaten-12",
+                    "product": "62f3ba14f4e3f7197aeaeae1",
+                    "updated-on": "2022-06-03T10:12:43.148Z",
+                    "updated-by": "Person_61448830203e445829eda6fc",
+                    "created-on": "2022-04-07T13:57:56.169Z",
+                    "created-by": "Person_612e174dabd9b316fb4e95c8",
+                    "published-on": "2022-08-10T14:01:27.937Z",
+                    "published-by": "Person_60c74c7904ca1d8dd12da332",
+                    "_cid": "62f3ba14f4e3f71f87eae81e",
+                    "_id": "62f3ba14f4e3f710e9eaeae4"
+                },
+                {
+                    "_archived": false,
+                    "_draft": false,
+                    "main-image": {
+                        "fileId": "62f3ba14f4e3f7109aeaed24",
+                        "url": "https://uploads-ssl.webflow.com/62a1a51f676e59213961f1a2/62a1a51f676e59354b61f7e3_Dji-Osmo-Mobile-3_ProductView3.png",
+                        "alt": null
+                    },
+                    "price": {
+                        "value": 890,
+                        "unit": "CHF"
+                    },
+                    "sku-values": {
+                        "3f321d37f243a30c695ca918d32bde76": "f22197a43e7ac35b467a53c190a6130f"
+                    },
+                    "more-images": [],
+                    "download-files": [],
+                    "name": "DJI Osmo Mobile 3 Mindestmietdauer (in Monaten): 6+",
+                    "sku": "87-0000-06",
+                    "slug": "dji-osmo-mobile-3-mindestmietdauer-in-monaten-6",
+                    "product": "62f3ba14f4e3f7197aeaeae1",
+                    "updated-on": "2022-06-03T10:12:43.179Z",
+                    "updated-by": "Person_61448830203e445829eda6fc",
+                    "created-on": "2022-04-07T13:57:55.417Z",
+                    "created-by": "Person_612e174dabd9b316fb4e95c8",
+                    "published-on": "2022-08-10T14:01:27.937Z",
+                    "published-by": "Person_60c74c7904ca1d8dd12da332",
+                    "_cid": "62f3ba14f4e3f71f87eae81e",
+                    "_id": "62f3ba14f4e3f798d1eaeae2"
+                },
+                {
+                    "_archived": false,
+                    "_draft": false,
+                    "main-image": {
+                        "fileId": "62f3ba14f4e3f7109aeaed24",
+                        "url": "https://uploads-ssl.webflow.com/62a1a51f676e59213961f1a2/62a1a51f676e59354b61f7e3_Dji-Osmo-Mobile-3_ProductView3.png",
+                        "alt": null
+                    },
+                    "price": {
+                        "value": 1190,
+                        "unit": "CHF"
+                    },
+                    "sku-values": {
+                        "3f321d37f243a30c695ca918d32bde76": "4e2a179588c57595dacfc20f9bffe0a6"
+                    },
+                    "more-images": [],
+                    "download-files": [],
+                    "name": "DJI Osmo Mobile 3 Mindestmietdauer (in Monaten): 3+",
+                    "sku": "87-0000-03",
+                    "slug": "dji-osmo-mobile-3-mindestmietdauer-in-monaten-3",
+                    "product": "62f3ba14f4e3f7197aeaeae1",
+                    "updated-on": "2022-06-03T10:12:43.206Z",
+                    "updated-by": "Person_61448830203e445829eda6fc",
+                    "created-on": "2022-04-07T13:57:55.234Z",
+                    "created-by": "Person_612e174dabd9b316fb4e95c8",
+                    "published-on": "2022-08-10T14:01:27.937Z",
+                    "published-by": "Person_60c74c7904ca1d8dd12da332",
+                    "_cid": "62f3ba14f4e3f71f87eae81e",
+                    "_id": "62f3ba14f4e3f70122eaeae6"
+                },
+                {
+                    "_archived": false,
+                    "_draft": false,
+                    "price": {
+                        "value": 1790,
+                        "unit": "CHF"
+                    },
+                    "sku-values": {
+                        "3f321d37f243a30c695ca918d32bde76": "8bb742661e100bc7551d023013e630db"
+                    },
+                    "sku": "87-0000-01",
+                    "more-images": [],
+                    "download-files": [],
+                    "name": "DJI Osmo Mobile 3 Mindestmietdauer (in Monaten): 1+",
+                    "slug": "dji-osmo-mobile-3-mindestmietdauer-in-monaten-1",
+                    "product": "62f3ba14f4e3f7197aeaeae1",
+                    "updated-on": "2022-06-03T10:12:43.248Z",
+                    "updated-by": "Person_61448830203e445829eda6fc",
+                    "created-on": "2022-04-07T13:54:33.686Z",
+                    "created-by": "Person_612e174dabd9b316fb4e95c8",
+                    "published-on": "2022-08-10T14:01:27.937Z",
+                    "published-by": "Person_60c74c7904ca1d8dd12da332",
+                    "main-image": {
+                        "fileId": "62f3ba14f4e3f7109aeaed24",
+                        "url": "https://uploads-ssl.webflow.com/62a1a51f676e59213961f1a2/62a1a51f676e59354b61f7e3_Dji-Osmo-Mobile-3_ProductView3.png",
+                        "alt": null
+                    },
+                    "_cid": "62f3ba14f4e3f71f87eae81e",
+                    "_id": "62f3ba14f4e3f71917eaeae5"
+                }
+            ]
+        },
+        {
+            "product": {
+                "tax-category": "standard-taxable",
+                "_archived": false,
+                "_draft": false,
+                "shippable": true,
+                "featured": false,
+                "best-seller": false,
+                "ec-product-type": "ff42fee0113744f693a764e3431a9cc2",
+                "tab-description": "<p>Perfekt ausgestattet sind Sie an Ihrem Arbeitsplatz mit der Tastatur FFQ-00128 von Microsoft Hardware Surface. In ihrem edlen Blau passt diese Microsoft Hardware Surface Tastatur perfekt in Ihr Büro. Mittels Surface Connect schliessen Sie Ihr Eingabegerät einfach an Ihren Rechner an. Profitieren Sie von Top-Qualität und gutem Service – von der Bestellung bis zur Lieferung. Greifen Sie schnell zu.</p>",
+                "name": "Surface Pro 8 Signature Keyboard + Pen",
+                "tab-spec": "<p><strong>LAYOUT</strong><br>QWERTZ</p><p><strong>TASTENTECHNIK</strong><br>Chiclet</p><p><strong>FEATURE</strong><br>Backlit</p><p><strong>GRÖSSE</strong><br>28.9 x 22.1 x 0.5 cm • 0.4 kg</p><p><strong>CONNECTIVITY</strong><br>Large multi-touch trackpad</p>",
+                "farbe": "Schwarz",
+                "slug": "surface-pro-8-signature-keyboard-pen",
+                "category": [
+                    "62f3ba14f4e3f727baeae85c"
+                ],
+                "updated-on": "2022-06-03T10:13:50.685Z",
+                "updated-by": "Person_61448830203e445829eda6fc",
+                "created-on": "2022-04-07T13:51:08.170Z",
+                "created-by": "Person_612e174dabd9b316fb4e95c8",
+                "published-on": "2022-08-10T14:01:27.937Z",
+                "published-by": "Person_60c74c7904ca1d8dd12da332",
+                "sku-properties": [
+                    {
+                        "id": "ff57e7c6feb36fbdd08c8c5cf02bcf65",
+                        "name": "Mindestmietdauer (in Monaten)",
+                        "enum": [
+                            {
+                                "id": "a4dc3ab4f1a6da7fe4c74ae9ed7cd651",
+                                "name": "1+",
+                                "slug": "1"
+                            },
+                            {
+                                "id": "ddf0ea8ac272d539cf6331429f6da382",
+                                "name": "3+",
+                                "slug": "3"
+                            },
+                            {
+                                "id": "8014935038dc46d3dc5558243bf58b2c",
+                                "name": "6+",
+                                "slug": "6"
+                            },
+                            {
+                                "id": "311be007e9c4289759a2bc6c02a4e902",
+                                "name": "12+",
+                                "slug": "12"
+                            }
+                        ]
+                    }
+                ],
+                "default-sku": "62f3ba14f4e3f7ef01eaeaec",
+                "gallery-image-1": {
+                    "fileId": "62f3ba14f4e3f736deeaed29",
+                    "url": "https://uploads-ssl.webflow.com/62a1a51f676e59213961f1a2/62a1a51f676e594f3c61f7e4_Surface%20Keyboard%20%2B%20Pen_ProductView1.png",
+                    "alt": null
+                },
+                "_cid": "62f3ba14f4e3f7056beae80a",
+                "_id": "62f3ba14f4e3f7828beaeae9",
+                "hasCorruptVariants": false
+            },
+            "skus": [
+                {
+                    "_archived": false,
+                    "_draft": false,
+                    "main-image": {
+                        "fileId": "62f3ba14f4e3f736deeaed29",
+                        "url": "https://uploads-ssl.webflow.com/62a1a51f676e59213961f1a2/62a1a51f676e594f3c61f7e4_Surface%20Keyboard%20%2B%20Pen_ProductView1.png",
+                        "alt": null
+                    },
+                    "price": {
+                        "value": 1190,
+                        "unit": "CHF"
+                    },
+                    "sku-values": {
+                        "ff57e7c6feb36fbdd08c8c5cf02bcf65": "311be007e9c4289759a2bc6c02a4e902"
+                    },
+                    "more-images": [],
+                    "download-files": [],
+                    "name": "Surface Pro 8 Signature Keyboard + Pen Mindestmietdauer (in Monaten): 12+",
+                    "sku": "91-0000-12",
+                    "slug": "surface-pro-8-signature-keyboard-pen-mindestmietdauer-in-monaten-12",
+                    "product": "62f3ba14f4e3f7828beaeae9",
+                    "updated-on": "2022-06-03T10:13:48.957Z",
+                    "updated-by": "Person_61448830203e445829eda6fc",
+                    "created-on": "2022-04-07T13:52:57.175Z",
+                    "created-by": "Person_612e174dabd9b316fb4e95c8",
+                    "published-on": "2022-08-10T14:01:27.937Z",
+                    "published-by": "Person_60c74c7904ca1d8dd12da332",
+                    "_cid": "62f3ba14f4e3f71f87eae81e",
+                    "_id": "62f3ba14f4e3f7ef01eaeaec"
+                },
+                {
+                    "_archived": false,
+                    "_draft": false,
+                    "main-image": {
+                        "fileId": "62f3ba14f4e3f736deeaed29",
+                        "url": "https://uploads-ssl.webflow.com/62a1a51f676e59213961f1a2/62a1a51f676e594f3c61f7e4_Surface%20Keyboard%20%2B%20Pen_ProductView1.png",
+                        "alt": null
+                    },
+                    "price": {
+                        "value": 1790,
+                        "unit": "CHF"
+                    },
+                    "sku-values": {
+                        "ff57e7c6feb36fbdd08c8c5cf02bcf65": "8014935038dc46d3dc5558243bf58b2c"
+                    },
+                    "more-images": [],
+                    "download-files": [],
+                    "name": "Surface Pro 8 Signature Keyboard + Pen Mindestmietdauer (in Monaten): 6+",
+                    "sku": "91-0000-06",
+                    "slug": "surface-pro-8-signature-keyboard-pen-mindestmietdauer-in-monaten-6",
+                    "product": "62f3ba14f4e3f7828beaeae9",
+                    "updated-on": "2022-06-03T10:13:49.038Z",
+                    "updated-by": "Person_61448830203e445829eda6fc",
+                    "created-on": "2022-04-07T13:52:57.139Z",
+                    "created-by": "Person_612e174dabd9b316fb4e95c8",
+                    "published-on": "2022-08-10T14:01:27.937Z",
+                    "published-by": "Person_60c74c7904ca1d8dd12da332",
+                    "_cid": "62f3ba14f4e3f71f87eae81e",
+                    "_id": "62f3ba14f4e3f7bff7eaeaea"
+                },
+                {
+                    "_archived": false,
+                    "_draft": false,
+                    "main-image": {
+                        "fileId": "62f3ba14f4e3f736deeaed29",
+                        "url": "https://uploads-ssl.webflow.com/62a1a51f676e59213961f1a2/62a1a51f676e594f3c61f7e4_Surface%20Keyboard%20%2B%20Pen_ProductView1.png",
+                        "alt": null
+                    },
+                    "price": {
+                        "value": 2390,
+                        "unit": "CHF"
+                    },
+                    "sku-values": {
+                        "ff57e7c6feb36fbdd08c8c5cf02bcf65": "ddf0ea8ac272d539cf6331429f6da382"
+                    },
+                    "more-images": [],
+                    "download-files": [],
+                    "name": "Surface Pro 8 Signature Keyboard + Pen Mindestmietdauer (in Monaten): 3+",
+                    "sku": "91-0000-03",
+                    "slug": "surface-pro-8-signature-keyboard-pen-mindestmietdauer-in-monaten-3",
+                    "product": "62f3ba14f4e3f7828beaeae9",
+                    "updated-on": "2022-06-03T10:13:49.062Z",
+                    "updated-by": "Person_61448830203e445829eda6fc",
+                    "created-on": "2022-04-07T13:52:56.949Z",
+                    "created-by": "Person_612e174dabd9b316fb4e95c8",
+                    "published-on": "2022-08-10T14:01:27.937Z",
+                    "published-by": "Person_60c74c7904ca1d8dd12da332",
+                    "_cid": "62f3ba14f4e3f71f87eae81e",
+                    "_id": "62f3ba14f4e3f72d28eaeae7"
+                },
+                {
+                    "_archived": false,
+                    "_draft": false,
+                    "price": {
+                        "value": 4190,
+                        "unit": "CHF"
+                    },
+                    "sku-values": {
+                        "ff57e7c6feb36fbdd08c8c5cf02bcf65": "a4dc3ab4f1a6da7fe4c74ae9ed7cd651"
+                    },
+                    "sku": "91-0000-01",
+                    "more-images": [],
+                    "download-files": [],
+                    "name": "Surface Pro 8 Signature Keyboard + Pen Mindestmietdauer (in Monaten): 1+",
+                    "slug": "surface-pro-8-signature-keyboard-pen-mindestmietdauer-in-monaten-1",
+                    "product": "62f3ba14f4e3f7828beaeae9",
+                    "updated-on": "2022-06-03T10:13:49.084Z",
+                    "updated-by": "Person_61448830203e445829eda6fc",
+                    "created-on": "2022-04-07T13:51:09.142Z",
+                    "created-by": "Person_612e174dabd9b316fb4e95c8",
+                    "published-on": "2022-08-10T14:01:27.937Z",
+                    "published-by": "Person_60c74c7904ca1d8dd12da332",
+                    "main-image": {
+                        "fileId": "62f3ba14f4e3f736deeaed29",
+                        "url": "https://uploads-ssl.webflow.com/62a1a51f676e59213961f1a2/62a1a51f676e594f3c61f7e4_Surface%20Keyboard%20%2B%20Pen_ProductView1.png",
+                        "alt": null
+                    },
+                    "_cid": "62f3ba14f4e3f71f87eae81e",
+                    "_id": "62f3ba14f4e3f74bdaeaeae8"
+                }
+            ]
+        },
+        {
+            "product": {
+                "tax-category": "standard-taxable",
+                "_archived": false,
+                "_draft": false,
+                "shippable": true,
+                "featured": false,
+                "best-seller": false,
+                "ec-product-type": "ff42fee0113744f693a764e3431a9cc2",
+                "tab-description": "<p>Der Roccat Titan Switch sorgt für einen schnellen, präzisen und gleichzeitig taktilen Tastendruck. Der Schalter ist dank Debounce-Mechanik bis zu 20% schneller als herkömmliche mechanische Schalter und wurde für Gamer entwickelt, die hohen Wert auf ein gutes, taktiles Gefühl eines mechanischen Schalters legen, aber nicht auf Schnelligkeit und pure Performance verzichten wollen. Der Auslösepunkt nach 1.8 mm ist leise und taktil, mit einem Druckweg von 3.6 mm ähnelt der Titan Switch Tactile somit den bekannten braunen Schaltern.</p><p>In der Roccat Kone Pro Ergonomic Performance Gaming Mouse stecken 14 Jahre Erfahrung und viel Leidenschaft, sie ist mit nur 66 g extrem leicht und blitzschnell, ohne den vielgelobten Komfort des charakteristischen Kone-Shapes zu beeinträchtigen.</p><p>Das Roccat Bionic Shell bringt die AIMO-Beleuchtung mit klarem, transluzentem Design eindrucksvoll zur Geltung und schützt vor Schmutz und Staub. Die Kone Pro kommt mit dem taktilen, reaktionsschnellen Titan Switch Optical plus dem optischen 19K DPI Roccat Owl-Eye Sensor, inklusive PhantomFlex Kabel und einzigartiger hitzebehandelter Glides aus reinem Ptfe.</p><p>‍</p>",
+                "name": "Roccat Vulcan Pro Bundle",
+                "tab-spec": "<p>PRODUKTE IM SET<br>Roccat Vulkan Pro, Roccat Kone Pro</p><p>KEYBOARD<br>Mechanische Tastatur</p><p>TASTENTECHNIK<br>Titan Switch</p><p>VERBINDUNG<br>USB</p><p>TASTATURLAYOUT<br>Schweiz</p><p>KEYBOARD AUSSTATTUNG<br>Handgelenkauflage, RGB Beleuchtung</p><p>GRÖSSE<br>23.5 x 46.2 x 3.2, 1.15Kg</p>",
+                "slug": "roccat-vulcan-pro-bundle",
+                "category": [
+                    "62f3ba14f4e3f727baeae85c"
+                ],
+                "updated-on": "2022-06-07T06:24:41.609Z",
+                "updated-by": "Person_612e18b0c237d5969c4b793d",
+                "created-on": "2022-04-07T13:45:53.719Z",
+                "created-by": "Person_612e174dabd9b316fb4e95c8",
+                "published-on": "2022-08-10T14:01:27.937Z",
+                "published-by": "Person_60c74c7904ca1d8dd12da332",
+                "sku-properties": [
+                    {
+                        "id": "d972cd5bb5a80d20ce40b93fb4836f30",
+                        "name": "Mindestmietdauer (in Monaten)",
+                        "enum": [
+                            {
+                                "id": "f462b20a75c4add099559306fd55cfe6",
+                                "name": "1+",
+                                "slug": "1"
+                            },
+                            {
+                                "id": "c3cfed3fc861a2d3583e80903a433020",
+                                "name": "3+",
+                                "slug": "3"
+                            },
+                            {
+                                "id": "4565ad40859913a35aa347a640bac2b7",
+                                "name": "6+",
+                                "slug": "6"
+                            },
+                            {
+                                "id": "c1060e6355e2e3f5151b3546c0ca176e",
+                                "name": "12+",
+                                "slug": "12"
+                            }
+                        ]
+                    }
+                ],
+                "default-sku": "62f3ba14f4e3f72c98eaeb07",
+                "gallery-image-1": {
+                    "fileId": "62f3ba14f4e3f720eaeaed25",
+                    "url": "https://uploads-ssl.webflow.com/62a1a51f676e59213961f1a2/62a1a51f676e592b4a61f7e5_Roccat%20Vulcan%20Pro%20Bundle_ProductView3.png",
+                    "alt": null
+                },
+                "gallery-image-2": {
+                    "fileId": "62f3ba14f4e3f725cceaed2f",
+                    "url": "https://uploads-ssl.webflow.com/62a1a51f676e59213961f1a2/62a1a51f676e596b2b61f7e6_Roccat%20Vulcan%20Pro%20Bundle_ProductView2.png",
+                    "alt": null
+                },
+                "image-with-the-price-tag": {
+                    "fileId": "62f3ba14f4e3f7792feaed2b",
+                    "url": "https://uploads-ssl.webflow.com/62a1a51f676e59213961f1a2/62a1a51f676e59390f61f7e7_Roccat%20Vulcan%20Pro%20Bundle_HeroImage.png",
+                    "alt": null
+                },
+                "_cid": "62f3ba14f4e3f7056beae80a",
+                "_id": "62f3ba14f4e3f7333deaeaed",
+                "hasCorruptVariants": false
+            },
+            "skus": [
+                {
+                    "_archived": false,
+                    "_draft": false,
+                    "main-image": {
+                        "fileId": "62f3ba14f4e3f7a1f0eaed31",
+                        "url": "https://uploads-ssl.webflow.com/62a1a51f676e59213961f1a2/62a1a51f676e59321161f7f0_Roccat%20Vulcan%20Pro%20Bundle_ProductView1.png",
+                        "alt": null
+                    },
+                    "price": {
+                        "value": 1190,
+                        "unit": "CHF"
+                    },
+                    "sku-values": {
+                        "d972cd5bb5a80d20ce40b93fb4836f30": "c1060e6355e2e3f5151b3546c0ca176e"
+                    },
+                    "more-images": [],
+                    "download-files": [],
+                    "name": "Roccat Vulcan Pro Bundle Mindestmietdauer (in Monaten): 12+",
+                    "sku": "95-0000-12",
+                    "slug": "roccat-vulcan-pro-bundle-mindestmietdauer-in-monaten-12",
+                    "product": "62f3ba14f4e3f7333deaeaed",
+                    "updated-on": "2022-06-03T11:08:50.328Z",
+                    "updated-by": "Person_61448830203e445829eda6fc",
+                    "created-on": "2022-04-07T13:48:38.864Z",
+                    "created-by": "Person_612e174dabd9b316fb4e95c8",
+                    "published-on": "2022-08-10T14:01:27.937Z",
+                    "published-by": "Person_60c74c7904ca1d8dd12da332",
+                    "_cid": "62f3ba14f4e3f71f87eae81e",
+                    "_id": "62f3ba14f4e3f72c98eaeb07"
+                },
+                {
+                    "_archived": false,
+                    "_draft": false,
+                    "main-image": {
+                        "fileId": "62f3ba14f4e3f7a1f0eaed31",
+                        "url": "https://uploads-ssl.webflow.com/62a1a51f676e59213961f1a2/62a1a51f676e59321161f7f0_Roccat%20Vulcan%20Pro%20Bundle_ProductView1.png",
+                        "alt": null
+                    },
+                    "price": {
+                        "value": 1790,
+                        "unit": "CHF"
+                    },
+                    "sku-values": {
+                        "d972cd5bb5a80d20ce40b93fb4836f30": "4565ad40859913a35aa347a640bac2b7"
+                    },
+                    "more-images": [],
+                    "download-files": [],
+                    "name": "Roccat Vulcan Pro Bundle Mindestmietdauer (in Monaten): 6+",
+                    "sku": "95-0000-06",
+                    "slug": "roccat-vulcan-pro-bundle-mindestmietdauer-in-monaten-6",
+                    "product": "62f3ba14f4e3f7333deaeaed",
+                    "updated-on": "2022-06-03T11:08:50.906Z",
+                    "updated-by": "Person_61448830203e445829eda6fc",
+                    "created-on": "2022-04-07T13:48:38.856Z",
+                    "created-by": "Person_612e174dabd9b316fb4e95c8",
+                    "published-on": "2022-08-10T14:01:27.937Z",
+                    "published-by": "Person_60c74c7904ca1d8dd12da332",
+                    "_cid": "62f3ba14f4e3f71f87eae81e",
+                    "_id": "62f3ba14f4e3f78e67eaeb04"
+                },
+                {
+                    "_archived": false,
+                    "_draft": false,
+                    "main-image": {
+                        "fileId": "62f3ba14f4e3f7a1f0eaed31",
+                        "url": "https://uploads-ssl.webflow.com/62a1a51f676e59213961f1a2/62a1a51f676e59321161f7f0_Roccat%20Vulcan%20Pro%20Bundle_ProductView1.png",
+                        "alt": null
+                    },
+                    "price": {
+                        "value": 2390,
+                        "unit": "CHF"
+                    },
+                    "sku-values": {
+                        "d972cd5bb5a80d20ce40b93fb4836f30": "c3cfed3fc861a2d3583e80903a433020"
+                    },
+                    "more-images": [],
+                    "download-files": [],
+                    "name": "Roccat Vulcan Pro Bundle Mindestmietdauer (in Monaten): 3+",
+                    "sku": "95-0000-03",
+                    "slug": "roccat-vulcan-pro-bundle-mindestmietdauer-in-monaten-3",
+                    "product": "62f3ba14f4e3f7333deaeaed",
+                    "updated-on": "2022-06-03T11:08:50.424Z",
+                    "updated-by": "Person_61448830203e445829eda6fc",
+                    "created-on": "2022-04-07T13:48:38.613Z",
+                    "created-by": "Person_612e174dabd9b316fb4e95c8",
+                    "published-on": "2022-08-10T14:01:27.937Z",
+                    "published-by": "Person_60c74c7904ca1d8dd12da332",
+                    "_cid": "62f3ba14f4e3f71f87eae81e",
+                    "_id": "62f3ba14f4e3f7d0dfeaeb06"
+                },
+                {
+                    "_archived": false,
+                    "_draft": false,
+                    "price": {
+                        "value": 4190,
+                        "unit": "CHF"
+                    },
+                    "sku-values": {
+                        "d972cd5bb5a80d20ce40b93fb4836f30": "f462b20a75c4add099559306fd55cfe6"
+                    },
+                    "sku": "95-0000-01",
+                    "more-images": [],
+                    "download-files": [],
+                    "name": "Roccat Vulcan Pro Bundle Mindestmietdauer (in Monaten): 1+",
+                    "slug": "roccat-vulcan-pro-bundle-mindestmietdauer-in-monaten-1",
+                    "product": "62f3ba14f4e3f7333deaeaed",
+                    "updated-on": "2022-06-03T11:08:50.422Z",
+                    "updated-by": "Person_61448830203e445829eda6fc",
+                    "created-on": "2022-04-07T13:45:54.443Z",
+                    "created-by": "Person_612e174dabd9b316fb4e95c8",
+                    "published-on": "2022-08-10T14:01:27.937Z",
+                    "published-by": "Person_60c74c7904ca1d8dd12da332",
+                    "main-image": {
+                        "fileId": "62f3ba14f4e3f7a1f0eaed31",
+                        "url": "https://uploads-ssl.webflow.com/62a1a51f676e59213961f1a2/62a1a51f676e59321161f7f0_Roccat%20Vulcan%20Pro%20Bundle_ProductView1.png",
+                        "alt": null
+                    },
+                    "_cid": "62f3ba14f4e3f71f87eae81e",
+                    "_id": "62f3ba14f4e3f745a1eaeb03"
+                }
+            ]
+        },
+        {
+            "product": {
+                "tax-category": "standard-taxable",
+                "_archived": false,
+                "_draft": false,
+                "shippable": true,
+                "featured": false,
+                "best-seller": false,
+                "ec-product-type": "ff42fee0113744f693a764e3431a9cc2",
+                "tab-description": "<p>Die Magic Mouse der dritten Generation verbindet sich per Bluetooth Technologie und sorgt so für eine kabellose, sichere Verbindung zu Ihrem Mac Computer. Durch die nahtlose Multi-Touch Oberfläche können Sie mit den gewohnten Apple-Gesten noch leichter durch Ihre Inhalte navigieren. Die optimierte Unterseite der Maus lässt diese noch besser über verschiedenste Oberflächen gleiten.</p>",
+                "name": "Apple Magic Mouse",
+                "tab-spec": "<p>‍<strong>SENSOR</strong><br>1,300 dpi</p><p><strong>FEATURES</strong><br>Touch buttons</p><p><strong>VERBINDUNG</strong><br>Bluetooth</p><p><strong>DIMENSIONS</strong><br>5.71 x 11.35 x 2.16 cm • 0.99 kg</p><p>‍</p>",
+                "farbe": "Weiss",
+                "slug": "apple-magic-mouse",
+                "category": [
+                    "62f3ba14f4e3f727baeae85c"
+                ],
+                "updated-on": "2022-06-03T10:19:14.628Z",
+                "updated-by": "Person_61448830203e445829eda6fc",
+                "created-on": "2022-04-07T13:43:00.245Z",
+                "created-by": "Person_612e174dabd9b316fb4e95c8",
+                "published-on": "2022-08-10T14:01:27.937Z",
+                "published-by": "Person_60c74c7904ca1d8dd12da332",
+                "sku-properties": [
+                    {
+                        "id": "439c67226ae41180d5ec138453992ab5",
+                        "name": "Mindestmietdauer (in Monaten)",
+                        "enum": [
+                            {
+                                "id": "a33c100f017e26749d6a330d6a9317ac",
+                                "name": "1+",
+                                "slug": "1"
+                            },
+                            {
+                                "id": "737800e1a1e168a3ae8c3d30c38d3541",
+                                "name": "3+",
+                                "slug": "3"
+                            },
+                            {
+                                "id": "1d4c699ae1305592cb071fd9f3566e49",
+                                "name": "6+",
+                                "slug": "6"
+                            },
+                            {
+                                "id": "eb65cf445b3ffe67163f5d733e353e63",
+                                "name": "12+",
+                                "slug": "12"
+                            }
+                        ]
+                    }
+                ],
+                "default-sku": "62f3ba14f4e3f77ea7eaeafb",
+                "gallery-image-1": {
+                    "fileId": "62f3ba14f4e3f759f5eaed2c",
+                    "url": "https://uploads-ssl.webflow.com/62a1a51f676e59213961f1a2/62a1a51f676e59e97261f7e8_Apple%20Magic%20Mouse_ProductView3.png",
+                    "alt": null
+                },
+                "gallery-image-2": {
+                    "fileId": "62f3ba14f4e3f78005eaed2e",
+                    "url": "https://uploads-ssl.webflow.com/62a1a51f676e59213961f1a2/62a1a51f676e59372061f7e9_Apple%20Magic%20Mouse_ProductView2.png",
+                    "alt": null
+                },
+                "image-with-the-price-tag": {
+                    "fileId": "62f3ba14f4e3f731d4eaed27",
+                    "url": "https://uploads-ssl.webflow.com/62a1a51f676e59213961f1a2/62a1a51f676e59731761f7ea_Apple%20Magic%20Mouse_HeroImage.png",
+                    "alt": null
+                },
+                "_cid": "62f3ba14f4e3f7056beae80a",
+                "_id": "62f3ba14f4e3f74d1beaeaee",
+                "hasCorruptVariants": false
+            },
+            "skus": [
+                {
+                    "_archived": false,
+                    "_draft": false,
+                    "main-image": {
+                        "fileId": "62f3ba14f4e3f76e68eaed2a",
+                        "url": "https://uploads-ssl.webflow.com/62a1a51f676e59213961f1a2/62a1a51f676e59578561f7eb_Apple%20Magic%20Mouse_ProductView1.png",
+                        "alt": null
+                    },
+                    "price": {
+                        "value": 490,
+                        "unit": "CHF"
+                    },
+                    "sku-values": {
+                        "439c67226ae41180d5ec138453992ab5": "eb65cf445b3ffe67163f5d733e353e63"
+                    },
+                    "more-images": [],
+                    "download-files": [],
+                    "name": "Apple Magic Mouse Mindestmietdauer (in Monaten): 12+",
+                    "sku": "94-0000-12",
+                    "slug": "apple-magic-mouse-mindestmietdauer-in-monaten-12",
+                    "product": "62f3ba14f4e3f74d1beaeaee",
+                    "updated-on": "2022-06-03T10:19:13.136Z",
+                    "updated-by": "Person_61448830203e445829eda6fc",
+                    "created-on": "2022-04-07T13:44:23.982Z",
+                    "created-by": "Person_612e174dabd9b316fb4e95c8",
+                    "published-on": "2022-08-10T14:01:27.937Z",
+                    "published-by": "Person_60c74c7904ca1d8dd12da332",
+                    "_cid": "62f3ba14f4e3f71f87eae81e",
+                    "_id": "62f3ba14f4e3f77ea7eaeafb"
+                },
+                {
+                    "_archived": false,
+                    "_draft": false,
+                    "main-image": {
+                        "fileId": "62f3ba14f4e3f76e68eaed2a",
+                        "url": "https://uploads-ssl.webflow.com/62a1a51f676e59213961f1a2/62a1a51f676e59578561f7eb_Apple%20Magic%20Mouse_ProductView1.png",
+                        "alt": null
+                    },
+                    "price": {
+                        "value": 690,
+                        "unit": "CHF"
+                    },
+                    "sku-values": {
+                        "439c67226ae41180d5ec138453992ab5": "1d4c699ae1305592cb071fd9f3566e49"
+                    },
+                    "more-images": [],
+                    "download-files": [],
+                    "name": "Apple Magic Mouse Mindestmietdauer (in Monaten): 6+",
+                    "sku": "94-0000-06",
+                    "slug": "apple-magic-mouse-mindestmietdauer-in-monaten-6",
+                    "product": "62f3ba14f4e3f74d1beaeaee",
+                    "updated-on": "2022-06-03T10:19:13.223Z",
+                    "updated-by": "Person_61448830203e445829eda6fc",
+                    "created-on": "2022-04-07T13:44:23.969Z",
+                    "created-by": "Person_612e174dabd9b316fb4e95c8",
+                    "published-on": "2022-08-10T14:01:27.937Z",
+                    "published-by": "Person_60c74c7904ca1d8dd12da332",
+                    "_cid": "62f3ba14f4e3f71f87eae81e",
+                    "_id": "62f3ba14f4e3f72743eaeafd"
+                },
+                {
+                    "_archived": false,
+                    "_draft": false,
+                    "main-image": {
+                        "fileId": "62f3ba14f4e3f76e68eaed2a",
+                        "url": "https://uploads-ssl.webflow.com/62a1a51f676e59213961f1a2/62a1a51f676e59578561f7eb_Apple%20Magic%20Mouse_ProductView1.png",
+                        "alt": null
+                    },
+                    "price": {
+                        "value": 990,
+                        "unit": "CHF"
+                    },
+                    "sku-values": {
+                        "439c67226ae41180d5ec138453992ab5": "737800e1a1e168a3ae8c3d30c38d3541"
+                    },
+                    "more-images": [],
+                    "download-files": [],
+                    "name": "Apple Magic Mouse Mindestmietdauer (in Monaten): 3+",
+                    "sku": "94-0000-03",
+                    "slug": "apple-magic-mouse-mindestmietdauer-in-monaten-3",
+                    "product": "62f3ba14f4e3f74d1beaeaee",
+                    "updated-on": "2022-06-03T10:19:13.342Z",
+                    "updated-by": "Person_61448830203e445829eda6fc",
+                    "created-on": "2022-04-07T13:44:23.746Z",
+                    "created-by": "Person_612e174dabd9b316fb4e95c8",
+                    "published-on": "2022-08-10T14:01:27.937Z",
+                    "published-by": "Person_60c74c7904ca1d8dd12da332",
+                    "_cid": "62f3ba14f4e3f71f87eae81e",
+                    "_id": "62f3ba14f4e3f77d87eaeafc"
+                },
+                {
+                    "_archived": false,
+                    "_draft": false,
+                    "price": {
+                        "value": 1290,
+                        "unit": "CHF"
+                    },
+                    "sku-values": {
+                        "439c67226ae41180d5ec138453992ab5": "a33c100f017e26749d6a330d6a9317ac"
+                    },
+                    "sku": "94-0000-01",
+                    "more-images": [],
+                    "download-files": [],
+                    "name": "Apple Magic Mouse Mindestmietdauer (in Monaten): 1+",
+                    "slug": "apple-magic-mouse-mindestmietdauer-in-monaten-1",
+                    "product": "62f3ba14f4e3f74d1beaeaee",
+                    "updated-on": "2022-06-03T10:19:13.337Z",
+                    "updated-by": "Person_61448830203e445829eda6fc",
+                    "created-on": "2022-04-07T13:43:01.236Z",
+                    "created-by": "Person_612e174dabd9b316fb4e95c8",
+                    "published-on": "2022-08-10T14:01:27.937Z",
+                    "published-by": "Person_60c74c7904ca1d8dd12da332",
+                    "main-image": {
+                        "fileId": "62f3ba14f4e3f76e68eaed2a",
+                        "url": "https://uploads-ssl.webflow.com/62a1a51f676e59213961f1a2/62a1a51f676e59578561f7eb_Apple%20Magic%20Mouse_ProductView1.png",
+                        "alt": null
+                    },
+                    "_cid": "62f3ba14f4e3f71f87eae81e",
+                    "_id": "62f3ba14f4e3f722dfeaeaef"
+                }
+            ]
+        },
+        {
+            "product": {
+                "tax-category": "standard-taxable",
+                "_archived": false,
+                "_draft": false,
+                "shippable": true,
+                "featured": false,
+                "best-seller": false,
+                "ec-product-type": "ff42fee0113744f693a764e3431a9cc2",
+                "tab-description": "<p>Das Magic Keyboard mit Touch ID und Ziffernblock macht präzises Tippen besonders angenehm und einfach. Es hat ein erweitertes Layout, Navigations­tasten für schnelles Scrollen in Dokumenten und normalgroße Pfeiltasten, die toll fürs Gamen sind. Der Ziffernblock ist ausserdem perfekt für Tabellen und Finanz­anwendungen. Es ist auch kabellos und wieder­aufladbar. Mit seiner unglaublich langen Batterie­laufzeit kannst du es ungefähr einen Monat oder länger verwenden, bevor du es aufladen musst. Es koppelt sich automatisch mit deinem Mac und ist direkt einsatzbereit. Und es kommt mit einem gewebten USB‑C auf Lightning Kabel, das du zum Laden und Koppeln über einen USB‑C Anschluss mit dem Mac verbinden kannst.</p>",
+                "name": "Apple Magic Keyboard",
+                "tab-spec": "<p><strong>LAYOUT</strong><br>QWERTZ</p><p><strong>TASTATURSPRACHE</strong><br>Schweiz</p><p><strong>FEATURES</strong><br>Built-in Rechargeable Battery</p><p><strong>GRÖSSE</strong><br>41.87 x 11.49 x 1.09 cm • 0.39 kg</p><p><strong>CONNECTIVITY</strong><br>Bluetooth</p>",
+                "farbe": "Weiss",
+                "slug": "apple-magic-keyboard",
+                "category": [
+                    "62f3ba14f4e3f72beceae900",
+                    "62f3ba14f4e3f727baeae85c"
+                ],
+                "updated-on": "2022-06-03T10:39:34.694Z",
+                "updated-by": "Person_61448830203e445829eda6fc",
+                "created-on": "2022-04-07T13:38:48.945Z",
+                "created-by": "Person_612e174dabd9b316fb4e95c8",
+                "published-on": "2022-08-10T14:01:27.937Z",
+                "published-by": "Person_60c74c7904ca1d8dd12da332",
+                "sku-properties": [
+                    {
+                        "id": "fa5dd50e06baa6f108728a11738c84a2",
+                        "name": "Mindestmietdauer (in Monaten)",
+                        "enum": [
+                            {
+                                "id": "0b1973510681fae1adf7789a9183c218",
+                                "name": "1+",
+                                "slug": "1"
+                            },
+                            {
+                                "id": "6a844fd4a814c60e0d3716b926f4df39",
+                                "name": "3+",
+                                "slug": "3"
+                            },
+                            {
+                                "id": "620c48d73db55e46269c72f4f8de12a6",
+                                "name": "6+",
+                                "slug": "6"
+                            },
+                            {
+                                "id": "61bc5f8f43812cec3ce9e207e04e0234",
+                                "name": "12+",
+                                "slug": "12"
+                            }
+                        ]
+                    }
+                ],
+                "default-sku": "62f3ba14f4e3f71ab8eaeb00",
+                "gallery-image-1": {
+                    "fileId": "62f3ba14f4e3f75e83eaed28",
+                    "url": "https://uploads-ssl.webflow.com/62a1a51f676e59213961f1a2/62a1a51f676e5956fd61f7ec_Apple-Magic-Keyboard_ProductView2.png",
+                    "alt": null
+                },
+                "gallery-image-2": {
+                    "fileId": "62f3ba14f4e3f72ea0eaed30",
+                    "url": "https://uploads-ssl.webflow.com/62a1a51f676e59213961f1a2/62a1a51f676e592d9d61f7ed_Apple-Magic-Keyboard_ProductView3.png",
+                    "alt": null
+                },
+                "image-with-the-price-tag": {
+                    "fileId": "62f3ba14f4e3f7094feaed38",
+                    "url": "https://uploads-ssl.webflow.com/62a1a51f676e59213961f1a2/62a1a51f676e59c33e61f7ee_Apple-Magic-Keyboard_HeroImage.png",
+                    "alt": null
+                },
+                "_cid": "62f3ba14f4e3f7056beae80a",
+                "_id": "62f3ba14f4e3f7ac5ceaeafe",
+                "hasCorruptVariants": false
+            },
+            "skus": [
+                {
+                    "_archived": false,
+                    "_draft": false,
+                    "main-image": {
+                        "fileId": "62f3ba14f4e3f7e875eaed3b",
+                        "url": "https://uploads-ssl.webflow.com/62a1a51f676e59213961f1a2/62a1a51f676e59514d61f7ef_Apple-Magic-Keyboard_ProductView1.png",
+                        "alt": null
+                    },
+                    "price": {
+                        "value": 1490,
+                        "unit": "CHF"
+                    },
+                    "sku-values": {
+                        "fa5dd50e06baa6f108728a11738c84a2": "6a844fd4a814c60e0d3716b926f4df39"
+                    },
+                    "more-images": [],
+                    "download-files": [],
+                    "name": "Apple Magic Keyboard Mindestmietdauer (in Monaten): 3+",
+                    "sku": "93-0000-03",
+                    "slug": "apple-magic-keyboard-mindestmietdauer-in-monaten-3",
+                    "product": "62f3ba14f4e3f7ac5ceaeafe",
+                    "updated-on": "2022-06-03T10:39:32.469Z",
+                    "updated-by": "Person_61448830203e445829eda6fc",
+                    "created-on": "2022-04-07T13:40:33.808Z",
+                    "created-by": "Person_612e174dabd9b316fb4e95c8",
+                    "published-on": "2022-08-10T14:01:27.937Z",
+                    "published-by": "Person_60c74c7904ca1d8dd12da332",
+                    "_cid": "62f3ba14f4e3f71f87eae81e",
+                    "_id": "62f3ba14f4e3f7c433eaeb02"
+                },
+                {
+                    "_archived": false,
+                    "_draft": false,
+                    "main-image": {
+                        "fileId": "62f3ba14f4e3f7e875eaed3b",
+                        "url": "https://uploads-ssl.webflow.com/62a1a51f676e59213961f1a2/62a1a51f676e59514d61f7ef_Apple-Magic-Keyboard_ProductView1.png",
+                        "alt": null
+                    },
+                    "price": {
+                        "value": 890,
+                        "unit": "CHF"
+                    },
+                    "sku-values": {
+                        "fa5dd50e06baa6f108728a11738c84a2": "61bc5f8f43812cec3ce9e207e04e0234"
+                    },
+                    "more-images": [],
+                    "download-files": [],
+                    "name": "Apple Magic Keyboard Mindestmietdauer (in Monaten): 12+",
+                    "sku": "93-0000-12",
+                    "slug": "apple-magic-keyboard-mindestmietdauer-in-monaten-12",
+                    "product": "62f3ba14f4e3f7ac5ceaeafe",
+                    "updated-on": "2022-06-03T10:39:33.753Z",
+                    "updated-by": "Person_61448830203e445829eda6fc",
+                    "created-on": "2022-04-07T13:40:33.606Z",
+                    "created-by": "Person_612e174dabd9b316fb4e95c8",
+                    "published-on": "2022-08-10T14:01:27.937Z",
+                    "published-by": "Person_60c74c7904ca1d8dd12da332",
+                    "_cid": "62f3ba14f4e3f71f87eae81e",
+                    "_id": "62f3ba14f4e3f71ab8eaeb00"
+                },
+                {
+                    "_archived": false,
+                    "_draft": false,
+                    "main-image": {
+                        "fileId": "62f3ba14f4e3f7e875eaed3b",
+                        "url": "https://uploads-ssl.webflow.com/62a1a51f676e59213961f1a2/62a1a51f676e59514d61f7ef_Apple-Magic-Keyboard_ProductView1.png",
+                        "alt": null
+                    },
+                    "price": {
+                        "value": 1190,
+                        "unit": "CHF"
+                    },
+                    "sku-values": {
+                        "fa5dd50e06baa6f108728a11738c84a2": "620c48d73db55e46269c72f4f8de12a6"
+                    },
+                    "more-images": [],
+                    "download-files": [],
+                    "name": "Apple Magic Keyboard Mindestmietdauer (in Monaten): 6+",
+                    "sku": "93-0000-06",
+                    "slug": "apple-magic-keyboard-mindestmietdauer-in-monaten-6",
+                    "product": "62f3ba14f4e3f7ac5ceaeafe",
+                    "updated-on": "2022-06-03T10:39:32.552Z",
+                    "updated-by": "Person_61448830203e445829eda6fc",
+                    "created-on": "2022-04-07T13:40:33.489Z",
+                    "created-by": "Person_612e174dabd9b316fb4e95c8",
+                    "published-on": "2022-08-10T14:01:27.937Z",
+                    "published-by": "Person_60c74c7904ca1d8dd12da332",
+                    "_cid": "62f3ba14f4e3f71f87eae81e",
+                    "_id": "62f3ba14f4e3f7e900eaeaff"
+                },
+                {
+                    "_archived": false,
+                    "_draft": false,
+                    "price": {
+                        "value": 2690,
+                        "unit": "CHF"
+                    },
+                    "sku-values": {
+                        "fa5dd50e06baa6f108728a11738c84a2": "0b1973510681fae1adf7789a9183c218"
+                    },
+                    "sku": "93-0000-01",
+                    "more-images": [],
+                    "download-files": [],
+                    "name": "Apple Magic Keyboard Mindestmietdauer (in Monaten): 1+",
+                    "slug": "apple-magic-keyboard-mindestmietdauer-in-monaten-1",
+                    "product": "62f3ba14f4e3f7ac5ceaeafe",
+                    "updated-on": "2022-06-03T10:39:32.565Z",
+                    "updated-by": "Person_61448830203e445829eda6fc",
+                    "created-on": "2022-04-07T13:38:50.098Z",
+                    "created-by": "Person_612e174dabd9b316fb4e95c8",
+                    "published-on": "2022-08-10T14:01:27.937Z",
+                    "published-by": "Person_60c74c7904ca1d8dd12da332",
+                    "main-image": {
+                        "fileId": "62f3ba14f4e3f7e875eaed3b",
+                        "url": "https://uploads-ssl.webflow.com/62a1a51f676e59213961f1a2/62a1a51f676e59514d61f7ef_Apple-Magic-Keyboard_ProductView1.png",
+                        "alt": null
+                    },
+                    "_cid": "62f3ba14f4e3f71f87eae81e",
+                    "_id": "62f3ba14f4e3f709e8eaeb01"
+                }
+            ]
+        },
+        {
+            "product": {
+                "tax-category": "standard-taxable",
+                "_archived": false,
+                "_draft": false,
+                "shippable": true,
+                "featured": false,
+                "best-seller": false,
+                "ec-product-type": "ff42fee0113744f693a764e3431a9cc2",
+                "tab-description": "<p>Der Zhiyun Crane 3S Pro ist ein professioneller 3-achsiger Stabilisator für anspruchsvolle Kamera Konfigurationen. Das 3-Achsen Gimbal System eignet sich für Kameras von 0,6 bis zu 6,5 kg.</p><p>Durch Sync Motion ist der Motorenschwenk per App möglich, der Verlängerungsarm dient auch für grosse Videokameras.</p>",
+                "name": "Zhiyun Crane 3S Pro",
+                "tab-spec": "<p><strong>PRODUKTTYP</strong><br>Gimbal</p><p><strong>KOMPATIBLE KAMERATYPEN<br></strong>Spiegelreflexkamera, Systemkamera</p><p><strong>MAX TRAGLAST<br></strong>6.50 kg</p><p><strong>AKKULAUFZEIT</strong><br>12h</p><p><strong>SPEZIELLE&nbsp;FUNKTION</strong><br>Smartphoneverbindung</p><p>‍</p>",
+                "farbe": "Schwarz",
+                "slug": "zhiyun-crane-3s-pro",
+                "category": [
+                    "62f3ba14f4e3f789deeae832"
+                ],
+                "updated-on": "2022-06-06T21:29:46.562Z",
+                "updated-by": "Person_61448830203e445829eda6fc",
+                "created-on": "2022-04-07T13:34:08.032Z",
+                "created-by": "Person_612e174dabd9b316fb4e95c8",
+                "published-on": "2022-08-10T14:01:27.937Z",
+                "published-by": "Person_60c74c7904ca1d8dd12da332",
+                "sku-properties": [
+                    {
+                        "id": "bbbfdbd94e8725d24bc117977d028880",
+                        "name": "Mindestmietdauer (in Monaten)",
+                        "enum": [
+                            {
+                                "id": "f0133a8e1eb9786592511e8c101a91ee",
+                                "name": "1+",
+                                "slug": "1"
+                            },
+                            {
+                                "id": "974728fee2db5911b15397c6f8088725",
+                                "name": "3+",
+                                "slug": "3"
+                            },
+                            {
+                                "id": "a03b6ae655595f8fe445497cacba7d6d",
+                                "name": "6+",
+                                "slug": "6"
+                            },
+                            {
+                                "id": "d6d297f983b558bd4a09ce22d0a4cfaa",
+                                "name": "12+",
+                                "slug": "12"
+                            }
+                        ]
+                    }
+                ],
+                "default-sku": "62f3ba14f4e3f72b24eaeb14",
+                "image-with-the-price-tag": {
+                    "fileId": "62f3ba14f4e3f738e9eaed33",
+                    "url": "https://uploads-ssl.webflow.com/62a1a51f676e59213961f1a2/62a1a51f676e59d53961f7fa_Zhiyun%20Crane%203S%20Pro_HeroImage.png",
+                    "alt": null
+                },
+                "_cid": "62f3ba14f4e3f7056beae80a",
+                "_id": "62f3ba14f4e3f727e1eaeb12",
+                "hasCorruptVariants": false
+            },
+            "skus": [
+                {
+                    "_archived": false,
+                    "_draft": false,
+                    "main-image": {
+                        "fileId": "62f3ba14f4e3f7b232eaed37",
+                        "url": "https://uploads-ssl.webflow.com/62a1a51f676e59213961f1a2/62a1a51f676e59c1aa61f7fb_Zhiyun%20Crane%203S%20Pro_ProductView1.png",
+                        "alt": null
+                    },
+                    "price": {
+                        "value": 11990,
+                        "unit": "CHF"
+                    },
+                    "sku-values": {
+                        "bbbfdbd94e8725d24bc117977d028880": "974728fee2db5911b15397c6f8088725"
+                    },
+                    "more-images": [],
+                    "download-files": [],
+                    "name": "Zhiyun Crane 3S Pro Mindestmietdauer (in Monaten): 3+",
+                    "sku": "84-0000-03",
+                    "slug": "zhiyun-crane-3s-pro-mindestmietdauer-in-monaten-3",
+                    "product": "62f3ba14f4e3f727e1eaeb12",
+                    "updated-on": "2022-06-06T21:29:45.601Z",
+                    "updated-by": "Person_61448830203e445829eda6fc",
+                    "created-on": "2022-04-07T13:35:33.670Z",
+                    "created-by": "Person_612e174dabd9b316fb4e95c8",
+                    "published-on": "2022-08-10T14:01:27.937Z",
+                    "published-by": "Person_60c74c7904ca1d8dd12da332",
+                    "_cid": "62f3ba14f4e3f71f87eae81e",
+                    "_id": "62f3ba14f4e3f77e72eaeb17"
+                },
+                {
+                    "_archived": false,
+                    "_draft": false,
+                    "main-image": {
+                        "fileId": "62f3ba14f4e3f7b232eaed37",
+                        "url": "https://uploads-ssl.webflow.com/62a1a51f676e59213961f1a2/62a1a51f676e59c1aa61f7fb_Zhiyun%20Crane%203S%20Pro_ProductView1.png",
+                        "alt": null
+                    },
+                    "price": {
+                        "value": 8990,
+                        "unit": "CHF"
+                    },
+                    "sku-values": {
+                        "bbbfdbd94e8725d24bc117977d028880": "a03b6ae655595f8fe445497cacba7d6d"
+                    },
+                    "more-images": [],
+                    "download-files": [],
+                    "name": "Zhiyun Crane 3S Pro Mindestmietdauer (in Monaten): 6+",
+                    "sku": "84-0000-06",
+                    "slug": "zhiyun-crane-3s-pro-mindestmietdauer-in-monaten-6",
+                    "product": "62f3ba14f4e3f727e1eaeb12",
+                    "updated-on": "2022-06-06T21:29:45.354Z",
+                    "updated-by": "Person_61448830203e445829eda6fc",
+                    "created-on": "2022-04-07T13:35:32.666Z",
+                    "created-by": "Person_612e174dabd9b316fb4e95c8",
+                    "published-on": "2022-08-10T14:01:27.937Z",
+                    "published-by": "Person_60c74c7904ca1d8dd12da332",
+                    "_cid": "62f3ba14f4e3f71f87eae81e",
+                    "_id": "62f3ba14f4e3f7216ceaeb15"
+                },
+                {
+                    "_archived": false,
+                    "_draft": false,
+                    "main-image": {
+                        "fileId": "62f3ba14f4e3f7b232eaed37",
+                        "url": "https://uploads-ssl.webflow.com/62a1a51f676e59213961f1a2/62a1a51f676e59c1aa61f7fb_Zhiyun%20Crane%203S%20Pro_ProductView1.png",
+                        "alt": null
+                    },
+                    "price": {
+                        "value": 5990,
+                        "unit": "CHF"
+                    },
+                    "sku-values": {
+                        "bbbfdbd94e8725d24bc117977d028880": "d6d297f983b558bd4a09ce22d0a4cfaa"
+                    },
+                    "more-images": [],
+                    "download-files": [],
+                    "name": "Zhiyun Crane 3S Pro Mindestmietdauer (in Monaten): 12+",
+                    "sku": "84-0000-12",
+                    "slug": "zhiyun-crane-3s-pro-mindestmietdauer-in-monaten-12",
+                    "product": "62f3ba14f4e3f727e1eaeb12",
+                    "updated-on": "2022-06-06T21:29:45.661Z",
+                    "updated-by": "Person_61448830203e445829eda6fc",
+                    "created-on": "2022-04-07T13:35:32.276Z",
+                    "created-by": "Person_612e174dabd9b316fb4e95c8",
+                    "published-on": "2022-08-10T14:01:27.937Z",
+                    "published-by": "Person_60c74c7904ca1d8dd12da332",
+                    "_cid": "62f3ba14f4e3f71f87eae81e",
+                    "_id": "62f3ba14f4e3f72b24eaeb14"
+                },
+                {
+                    "_archived": false,
+                    "_draft": false,
+                    "price": {
+                        "value": 19990,
+                        "unit": "CHF"
+                    },
+                    "sku-values": {
+                        "bbbfdbd94e8725d24bc117977d028880": "f0133a8e1eb9786592511e8c101a91ee"
+                    },
+                    "sku": "84-0000-01",
+                    "more-images": [],
+                    "download-files": [],
+                    "name": "Zhiyun Crane 3S Pro Mindestmietdauer (in Monaten): 1+",
+                    "slug": "zhiyun-crane-3s-pro-mindestmietdauer-in-monaten-1",
+                    "product": "62f3ba14f4e3f727e1eaeb12",
+                    "updated-on": "2022-06-06T21:29:45.361Z",
+                    "updated-by": "Person_61448830203e445829eda6fc",
+                    "created-on": "2022-04-07T13:34:09.043Z",
+                    "created-by": "Person_612e174dabd9b316fb4e95c8",
+                    "published-on": "2022-08-10T14:01:27.937Z",
+                    "published-by": "Person_60c74c7904ca1d8dd12da332",
+                    "main-image": {
+                        "fileId": "62f3ba14f4e3f7b232eaed37",
+                        "url": "https://uploads-ssl.webflow.com/62a1a51f676e59213961f1a2/62a1a51f676e59c1aa61f7fb_Zhiyun%20Crane%203S%20Pro_ProductView1.png",
+                        "alt": null
+                    },
+                    "_cid": "62f3ba14f4e3f71f87eae81e",
+                    "_id": "62f3ba14f4e3f7335ceaeb13"
+                }
+            ]
+        },
+        {
+            "product": {
+                "tax-category": "standard-taxable",
+                "_archived": false,
+                "_draft": false,
+                "shippable": true,
+                "featured": false,
+                "best-seller": false,
+                "ec-product-type": "ff42fee0113744f693a764e3431a9cc2",
+                "tab-description": "<p>Dji RS 2 ist nicht nur ein Gimbal. Es ist eine einzigartige Lösung für dynamische Filmemacher. Jedes Designelement und jede Funktion wurde dafür ausgelegt eine branchenführende Kamerastabilisierung zu liefern. Einfach ausgedrückt, Dji RS 2 wurde entwickelt, um das Filmemachen zu meistern.</p><p>Die Monocoque-Kohlefaserkonstruktion sorgt für hervorragende Stabilität und unglaubliche Leichtigkeit. Greif direkt über den Touchscreen auf ActiveTrack 3.0 zu und lass deiner Kreativität freien Lauf. Auf dem Vollfarb-Touchscreen kannst du Parameter schnell anpassen und alle Funktionen der Ronin App nutzen.Niemand stellt Kamerastabilisatoren her wie Dji. Der Titan-Stabilisierungsalgorithmus nimmt Filmmaterial flüssiger auf als je zuvor. Brauchst du mehr? SuperSmooth gleicht kleinste Mikrobewegungen aus, erhöht das Drehmoment und stabilisiert sogar 100-mm-Zoomobjektive.</p>",
+                "name": "DJI RS 2 Pro Combo",
+                "tab-spec": "<p><strong>GENERELLE FEATURES<br></strong>Carbon fiber body / OLED 1-inch screen / Focus wheel / Axis transport lock</p><p><strong>WEITERE FEATURES<br></strong>SuperSmooth feature for long lenses / RSA ports with NATO mount / Dual-Layer Manfrotto + Arca-Swiss mounting system / Fine tune knob for precision camera balancing / Focus motor / RavenEye video transmitter</p><p><strong>VERBINDUNGEN</strong><br>2x RSA / Wifi 2.4GHz / Bluetooth 5.0</p><p><strong>LIEFERUMFANG</strong><br>DJI RS 2 Gimbal Stabilizer Pro Combo, DJI Ronin RavenEye Transmitter, Focus motor, Phone holder, Focus gear strips, HDMI cables (3x), Grip/tripod, Multi-camera control cable (4x), Quick-release plate(2x), Carry case.</p>",
+                "farbe": "Schwarz",
+                "slug": "dji-rs-2-pro-combo",
+                "category": [
+                    "62f3ba14f4e3f789deeae832"
+                ],
+                "updated-on": "2022-06-07T06:26:01.401Z",
+                "updated-by": "Person_61448830203e445829eda6fc",
+                "created-on": "2022-04-07T13:27:38.368Z",
+                "created-by": "Person_612e174dabd9b316fb4e95c8",
+                "published-on": "2022-08-10T14:01:27.937Z",
+                "published-by": "Person_60c74c7904ca1d8dd12da332",
+                "sku-properties": [
+                    {
+                        "id": "cb0549b9dbec687c88353e6c96a66f39",
+                        "name": "Mindestmietdauer (in Monaten)",
+                        "enum": [
+                            {
+                                "id": "9eecee22a9e05856eac105b97df217dd",
+                                "name": "1+",
+                                "slug": "1"
+                            },
+                            {
+                                "id": "88763009b25b8a94bb4e194136daa455",
+                                "name": "3+",
+                                "slug": "3"
+                            },
+                            {
+                                "id": "9a4d092e55d0384f6d800a5ea792aa90",
+                                "name": "6+",
+                                "slug": "6"
+                            },
+                            {
+                                "id": "3fca633d03aa77d3f467edc0f7b7f0d1",
+                                "name": "12+",
+                                "slug": "12"
+                            }
+                        ]
+                    }
+                ],
+                "default-sku": "62f3ba14f4e3f7f732eaeb33",
+                "gallery-image-1": {
+                    "fileId": "62f3ba14f4e3f7781deaed54",
+                    "url": "https://uploads-ssl.webflow.com/62a1a51f676e59213961f1a2/62a1a51f676e5963a261f811_Dji%20RS%202%20Pro%20Combo_ProductView2.png",
+                    "alt": null
+                },
+                "gallery-image-2": {
+                    "fileId": "62f3ba14f4e3f7a315eaed55",
+                    "url": "https://uploads-ssl.webflow.com/62a1a51f676e59213961f1a2/62a1a51f676e59130561f812_Dji%20RS%202%20Pro%20Combo_ProductView3.png",
+                    "alt": null
+                },
+                "image-with-the-price-tag": {
+                    "fileId": "62f3ba14f4e3f722f4eaed07",
+                    "url": "https://uploads-ssl.webflow.com/62a1a51f676e59213961f1a2/62a1a51f676e59251361f7be_Dji-RS-2-Pro-Combo.png",
+                    "alt": null
+                },
+                "_cid": "62f3ba14f4e3f7056beae80a",
+                "_id": "62f3ba14f4e3f749f8eaeaa8",
+                "hasCorruptVariants": false
+            },
+            "skus": [
+                {
+                    "_archived": false,
+                    "_draft": false,
+                    "main-image": {
+                        "fileId": "62f3ba14f4e3f7a14feaed5b",
+                        "url": "https://uploads-ssl.webflow.com/62a1a51f676e59213961f1a2/62a1a51f676e59b63161f814_Dji%20RS%202%20Pro%20Combo_ProductView1.png",
+                        "alt": null
+                    },
+                    "price": {
+                        "value": 3490,
+                        "unit": "CHF"
+                    },
+                    "sku-values": {
+                        "cb0549b9dbec687c88353e6c96a66f39": "3fca633d03aa77d3f467edc0f7b7f0d1"
+                    },
+                    "more-images": [],
+                    "download-files": [],
+                    "name": "DJI RS 2 Pro Combo Mindestmietdauer (in Monaten): 12+",
+                    "sku": "83-0000-12",
+                    "slug": "dji-rs-2-pro-combo-mindestmietdauer-in-monaten-12",
+                    "product": "62f3ba14f4e3f749f8eaeaa8",
+                    "updated-on": "2022-06-06T21:34:39.839Z",
+                    "updated-by": "Person_61448830203e445829eda6fc",
+                    "created-on": "2022-04-07T13:31:07.719Z",
+                    "created-by": "Person_612e174dabd9b316fb4e95c8",
+                    "published-on": "2022-08-10T14:01:27.937Z",
+                    "published-by": "Person_60c74c7904ca1d8dd12da332",
+                    "_cid": "62f3ba14f4e3f71f87eae81e",
+                    "_id": "62f3ba14f4e3f7f732eaeb33"
+                },
+                {
+                    "_archived": false,
+                    "_draft": false,
+                    "main-image": {
+                        "fileId": "62f3ba14f4e3f7a14feaed5b",
+                        "url": "https://uploads-ssl.webflow.com/62a1a51f676e59213961f1a2/62a1a51f676e59b63161f814_Dji%20RS%202%20Pro%20Combo_ProductView1.png",
+                        "alt": null
+                    },
+                    "price": {
+                        "value": 6990,
+                        "unit": "CHF"
+                    },
+                    "sku-values": {
+                        "cb0549b9dbec687c88353e6c96a66f39": "88763009b25b8a94bb4e194136daa455"
+                    },
+                    "more-images": [],
+                    "download-files": [],
+                    "name": "DJI RS 2 Pro Combo Mindestmietdauer (in Monaten): 3+",
+                    "sku": "83-0000-03",
+                    "slug": "dji-rs-2-pro-combo-mindestmietdauer-in-monaten-3",
+                    "product": "62f3ba14f4e3f749f8eaeaa8",
+                    "updated-on": "2022-06-06T21:34:40.543Z",
+                    "updated-by": "Person_61448830203e445829eda6fc",
+                    "created-on": "2022-04-07T13:31:07.718Z",
+                    "created-by": "Person_612e174dabd9b316fb4e95c8",
+                    "published-on": "2022-08-10T14:01:27.937Z",
+                    "published-by": "Person_60c74c7904ca1d8dd12da332",
+                    "_cid": "62f3ba14f4e3f71f87eae81e",
+                    "_id": "62f3ba14f4e3f72540eaeb34"
+                },
+                {
+                    "_archived": false,
+                    "_draft": false,
+                    "main-image": {
+                        "fileId": "62f3ba14f4e3f7a14feaed5b",
+                        "url": "https://uploads-ssl.webflow.com/62a1a51f676e59213961f1a2/62a1a51f676e59b63161f814_Dji%20RS%202%20Pro%20Combo_ProductView1.png",
+                        "alt": null
+                    },
+                    "price": {
+                        "value": 4990,
+                        "unit": "CHF"
+                    },
+                    "sku-values": {
+                        "cb0549b9dbec687c88353e6c96a66f39": "9a4d092e55d0384f6d800a5ea792aa90"
+                    },
+                    "more-images": [],
+                    "download-files": [],
+                    "name": "DJI RS 2 Pro Combo Mindestmietdauer (in Monaten): 6+",
+                    "sku": "83-0000-06",
+                    "slug": "dji-rs-2-pro-combo-mindestmietdauer-in-monaten-6",
+                    "product": "62f3ba14f4e3f749f8eaeaa8",
+                    "updated-on": "2022-06-06T21:34:40.036Z",
+                    "updated-by": "Person_61448830203e445829eda6fc",
+                    "created-on": "2022-04-07T13:31:07.503Z",
+                    "created-by": "Person_612e174dabd9b316fb4e95c8",
+                    "published-on": "2022-08-10T14:01:27.937Z",
+                    "published-by": "Person_60c74c7904ca1d8dd12da332",
+                    "_cid": "62f3ba14f4e3f71f87eae81e",
+                    "_id": "62f3ba14f4e3f72a9beaeb35"
+                },
+                {
+                    "_archived": false,
+                    "_draft": false,
+                    "price": {
+                        "value": 11990,
+                        "unit": "CHF"
+                    },
+                    "sku-values": {
+                        "cb0549b9dbec687c88353e6c96a66f39": "9eecee22a9e05856eac105b97df217dd"
+                    },
+                    "sku": "83-0000-01",
+                    "more-images": [],
+                    "download-files": [],
+                    "name": "DJI RS 2 Pro Combo Mindestmietdauer (in Monaten): 1+",
+                    "slug": "dji-rs-2-pro-combo-mindestmietdauer-in-monaten-1",
+                    "product": "62f3ba14f4e3f749f8eaeaa8",
+                    "updated-on": "2022-06-06T21:34:40.099Z",
+                    "updated-by": "Person_61448830203e445829eda6fc",
+                    "created-on": "2022-04-07T13:27:39.917Z",
+                    "created-by": "Person_612e174dabd9b316fb4e95c8",
+                    "published-on": "2022-08-10T14:01:27.937Z",
+                    "published-by": "Person_60c74c7904ca1d8dd12da332",
+                    "main-image": {
+                        "fileId": "62f3ba14f4e3f7a14feaed5b",
+                        "url": "https://uploads-ssl.webflow.com/62a1a51f676e59213961f1a2/62a1a51f676e59b63161f814_Dji%20RS%202%20Pro%20Combo_ProductView1.png",
+                        "alt": null
+                    },
+                    "_cid": "62f3ba14f4e3f71f87eae81e",
+                    "_id": "62f3ba14f4e3f799aceaeb32"
+                }
+            ]
+        },
+        {
+            "product": {
+                "tax-category": "standard-taxable",
+                "_archived": false,
+                "_draft": false,
+                "shippable": true,
+                "featured": false,
+                "best-seller": false,
+                "ec-product-type": "ff42fee0113744f693a764e3431a9cc2",
+                "tab-description": "<p>Durch Geschwindigkeiten von bis zu 1700 MB/s1 (Lesen) und 1480 MB/s1 (Schreiben) ist diese Speicherkarte schon jetzt für zukünftige Generationen von Kameras und Camcordern gewappnet. Die CFexpress-Speicherkarte von Sony wurde für professionelle Fotografen, Kameraleute und Technikbegeisterte entwickelt, die schnellere und verlässliche Workflows benötigen.</p><p>Ob hochauflösende Serienaufnahmen mit einer Vollformat-DSLR, einer spiegellosen Kamera oder einem Profi-Camcorder: Diese Speicherkarte bietet die nötige Geschwindigkeit, um die Action einzufangen. Erleben Sie so schon heute die High-End-Kameras und -Camcorder von morgen.</p><p>Das robuste Design bietet eine mehr als dreimal höhere Biegefestigkeit als der Standard für CFexpress-Speicherkarten und eine hohe Steifigkeit bei bis zu 70 Newton. Die Karte hält Stürzen aus bis zu 5 Metern Höhe stand und kann auch bei extremen Temperaturen, Röntgenstrahlen, elektrostatischen Entladungen und intensiver UV-Strahlung durch die Sonne verwendet werden.1 Basierend auf Tests von Sony. Die tatsächliche Leistung kann variieren und hängt von der Umgebung und der Nutzung ab.</p>",
+                "name": "Sony Tough CFexpress Typ B - 128 GB",
+                "tab-spec": "<p><strong>SCHREIBRATE</strong><br>1480 MB/s</p><p><strong>LESERATE</strong><br>1700 MB/s</p><p><strong>SPEICHERKAPAZITÄT</strong><br>128 GB</p><p><strong>VIDEO GESCHWINDIGKEITSKLASSE<br></strong>V60</p><p><strong>EIGENSCHAFTEN</strong><br>Wasserfest</p><p>‍</p>",
+                "storage": "128 GB",
+                "slug": "sony-tough-cfexpress-typ-b-128-gb",
+                "category": [
+                    "62f3ba14f4e3f727baeae85c"
+                ],
+                "updated-on": "2022-06-07T06:26:20.521Z",
+                "updated-by": "Person_61448830203e445829eda6fc",
+                "created-on": "2022-04-07T13:23:50.279Z",
+                "created-by": "Person_612e174dabd9b316fb4e95c8",
+                "published-on": "2022-08-10T14:01:27.937Z",
+                "published-by": "Person_60c74c7904ca1d8dd12da332",
+                "sku-properties": [
+                    {
+                        "id": "8f3ae4f3aa459c18574ef17544020ace",
+                        "name": "Mindestmietdauer (in Monaten)",
+                        "enum": [
+                            {
+                                "id": "e489a51ebba67286ecf00615e7287d42",
+                                "name": "1+",
+                                "slug": "1"
+                            },
+                            {
+                                "id": "801735e7b6b6b3cb6dc386b84be51558",
+                                "name": "3+",
+                                "slug": "3"
+                            },
+                            {
+                                "id": "2e8a40420d0dea0fd6bcf3abc4fa62ec",
+                                "name": "6+",
+                                "slug": "6"
+                            },
+                            {
+                                "id": "982785a80cc18dd7304ff5245aeac03b",
+                                "name": "12+",
+                                "slug": "12"
+                            }
+                        ]
+                    }
+                ],
+                "default-sku": "62f3ba14f4e3f72a6feaeb52",
+                "gallery-image-1": {
+                    "fileId": "62f3ba14f4e3f76952eaed69",
+                    "url": "https://uploads-ssl.webflow.com/62a1a51f676e59213961f1a2/62a1a51f676e593b6561f82b_Sony%20Tough%20CFexpress%20Typ%20B%2C%20128%20GB_ProductView2.png",
+                    "alt": null
+                },
+                "image-with-the-price-tag": {
+                    "fileId": "62f3ba14f4e3f7c618eaed02",
+                    "url": "https://uploads-ssl.webflow.com/62a1a51f676e59213961f1a2/62a1a51f676e5996ec61f7bc_Sony-Tough-CFexpress-Typ-B%2C-128-GB.png",
+                    "alt": null
+                },
+                "_cid": "62f3ba14f4e3f7056beae80a",
+                "_id": "62f3ba14f4e3f76bdceaeaa7",
+                "hasCorruptVariants": false
+            },
+            "skus": [
+                {
+                    "_archived": false,
+                    "_draft": false,
+                    "main-image": {
+                        "fileId": "62f3ba14f4e3f7c29feaed70",
+                        "url": "https://uploads-ssl.webflow.com/62a1a51f676e59213961f1a2/62a1a51f676e59040961f82c_Sony%20Tough%20CFexpress%20Typ%20B%2C%20128%20GB_ProductView1.png",
+                        "alt": null
+                    },
+                    "price": {
+                        "value": 990,
+                        "unit": "CHF"
+                    },
+                    "sku-values": {
+                        "8f3ae4f3aa459c18574ef17544020ace": "982785a80cc18dd7304ff5245aeac03b"
+                    },
+                    "more-images": [],
+                    "download-files": [],
+                    "name": "Sony Tough CFexpress Typ B - 128 GB Mindestmietdauer (in Monaten): 12+",
+                    "sku": "85-0000-12",
+                    "slug": "sony-tough-cfexpress-typ-b-128-gb-mindestmietdauer-in-monaten-12",
+                    "product": "62f3ba14f4e3f76bdceaeaa7",
+                    "updated-on": "2022-06-06T21:39:25.031Z",
+                    "updated-by": "Person_61448830203e445829eda6fc",
+                    "created-on": "2022-04-07T13:25:20.333Z",
+                    "created-by": "Person_612e174dabd9b316fb4e95c8",
+                    "published-on": "2022-08-10T14:01:27.937Z",
+                    "published-by": "Person_60c74c7904ca1d8dd12da332",
+                    "_cid": "62f3ba14f4e3f71f87eae81e",
+                    "_id": "62f3ba14f4e3f72a6feaeb52"
+                },
+                {
+                    "_archived": false,
+                    "_draft": false,
+                    "main-image": {
+                        "fileId": "62f3ba14f4e3f7c29feaed70",
+                        "url": "https://uploads-ssl.webflow.com/62a1a51f676e59213961f1a2/62a1a51f676e59040961f82c_Sony%20Tough%20CFexpress%20Typ%20B%2C%20128%20GB_ProductView1.png",
+                        "alt": null
+                    },
+                    "price": {
+                        "value": 1190,
+                        "unit": "CHF"
+                    },
+                    "sku-values": {
+                        "8f3ae4f3aa459c18574ef17544020ace": "2e8a40420d0dea0fd6bcf3abc4fa62ec"
+                    },
+                    "more-images": [],
+                    "download-files": [],
+                    "name": "Sony Tough CFexpress Typ B - 128 GB Mindestmietdauer (in Monaten): 6+",
+                    "sku": "85-0000-06",
+                    "slug": "sony-tough-cfexpress-typ-b-128-gb-mindestmietdauer-in-monaten-6",
+                    "product": "62f3ba14f4e3f76bdceaeaa7",
+                    "updated-on": "2022-06-06T21:39:25.144Z",
+                    "updated-by": "Person_61448830203e445829eda6fc",
+                    "created-on": "2022-04-07T13:25:20.214Z",
+                    "created-by": "Person_612e174dabd9b316fb4e95c8",
+                    "published-on": "2022-08-10T14:01:27.937Z",
+                    "published-by": "Person_60c74c7904ca1d8dd12da332",
+                    "_cid": "62f3ba14f4e3f71f87eae81e",
+                    "_id": "62f3ba14f4e3f7dc25eaeb50"
+                },
+                {
+                    "_archived": false,
+                    "_draft": false,
+                    "main-image": {
+                        "fileId": "62f3ba14f4e3f7c29feaed70",
+                        "url": "https://uploads-ssl.webflow.com/62a1a51f676e59213961f1a2/62a1a51f676e59040961f82c_Sony%20Tough%20CFexpress%20Typ%20B%2C%20128%20GB_ProductView1.png",
+                        "alt": null
+                    },
+                    "price": {
+                        "value": 1790,
+                        "unit": "CHF"
+                    },
+                    "sku-values": {
+                        "8f3ae4f3aa459c18574ef17544020ace": "801735e7b6b6b3cb6dc386b84be51558"
+                    },
+                    "more-images": [],
+                    "download-files": [],
+                    "name": "Sony Tough CFexpress Typ B - 128 GB Mindestmietdauer (in Monaten): 3+",
+                    "sku": "85-0000-03",
+                    "slug": "sony-tough-cfexpress-typ-b-128-gb-mindestmietdauer-in-monaten-3",
+                    "product": "62f3ba14f4e3f76bdceaeaa7",
+                    "updated-on": "2022-06-06T21:39:25.145Z",
+                    "updated-by": "Person_61448830203e445829eda6fc",
+                    "created-on": "2022-04-07T13:25:19.985Z",
+                    "created-by": "Person_612e174dabd9b316fb4e95c8",
+                    "published-on": "2022-08-10T14:01:27.937Z",
+                    "published-by": "Person_60c74c7904ca1d8dd12da332",
+                    "_cid": "62f3ba14f4e3f71f87eae81e",
+                    "_id": "62f3ba14f4e3f76c5eeaeb51"
+                },
+                {
+                    "_archived": false,
+                    "_draft": false,
+                    "price": {
+                        "value": 2990,
+                        "unit": "CHF"
+                    },
+                    "sku-values": {
+                        "8f3ae4f3aa459c18574ef17544020ace": "e489a51ebba67286ecf00615e7287d42"
+                    },
+                    "sku": "85-0000-01",
+                    "more-images": [],
+                    "download-files": [],
+                    "name": "Sony Tough CFexpress Typ B - 128 GB Mindestmietdauer (in Monaten): 1+",
+                    "slug": "sony-tough-cfexpress-typ-b-128-gb-mindestmietdauer-in-monaten-1",
+                    "product": "62f3ba14f4e3f76bdceaeaa7",
+                    "updated-on": "2022-06-06T21:39:25.701Z",
+                    "updated-by": "Person_61448830203e445829eda6fc",
+                    "created-on": "2022-04-07T13:23:51.233Z",
+                    "created-by": "Person_612e174dabd9b316fb4e95c8",
+                    "published-on": "2022-08-10T14:01:27.937Z",
+                    "published-by": "Person_60c74c7904ca1d8dd12da332",
+                    "main-image": {
+                        "fileId": "62f3ba14f4e3f7c29feaed70",
+                        "url": "https://uploads-ssl.webflow.com/62a1a51f676e59213961f1a2/62a1a51f676e59040961f82c_Sony%20Tough%20CFexpress%20Typ%20B%2C%20128%20GB_ProductView1.png",
+                        "alt": null
+                    },
+                    "_cid": "62f3ba14f4e3f71f87eae81e",
+                    "_id": "62f3ba14f4e3f77c2ceaeb53"
+                }
+            ]
+        },
+        {
+            "product": {
+                "tax-category": "standard-taxable",
+                "shippable": true,
+                "_archived": false,
+                "_draft": false,
+                "featured": false,
+                "best-seller": false,
+                "ec-product-type": "ff42fee0113744f693a764e3431a9cc2",
+                "name": "Apple Pencil (2nd Generation)",
+                "slug": "apple-pencil-2nd-generation",
+                "updated-on": "2022-09-19T13:50:43.104Z",
+                "updated-by": "Person_60c74c7904ca1d8dd12da332",
+                "created-on": "2022-04-05T09:27:48.489Z",
+                "created-by": "Person_612e18b0c237d5969c4b793d",
+                "published-on": "2022-09-22T08:44:28.427Z",
+                "published-by": "Person_6177a0d43150dfaeb260007c",
+                "default-sku": "62f3ba14f4e3f76642eaec21",
+                "sku-properties": [
+                    {
+                        "id": "a5c0245e90c50393a90e8570c2b93ebb",
+                        "name": "Mindestmietdauer (in Monaten)",
+                        "enum": [
+                            {
+                                "id": "97983ceeec8da429955ed483cd8957aa",
+                                "name": "1+",
+                                "slug": "1"
+                            },
+                            {
+                                "id": "6ca6a873457bfab71952ce8c92c366d9",
+                                "name": "3+",
+                                "slug": "3"
+                            },
+                            {
+                                "id": "a10916b71b52458ab8a579296587e1e7",
+                                "name": "6+",
+                                "slug": "6"
+                            },
+                            {
+                                "id": "e3be8b9a9231fa753745c98241f9107f",
+                                "name": "12+",
+                                "slug": "12"
+                            }
+                        ]
+                    }
+                ],
+                "category": [
+                    "62f3ba14f4e3f727baeae85c"
+                ],
+                "farbe": "Weiss",
+                "tab-description": "<p>Der Apple Pencil setzt den Standard, wie sich zeichnen, Notizen machen und Dokumente kommentieren anfühlen sollte – intuitiv, präzise und magisch. Alles ohne spürbare Verzögerung, mit pixel­genauer Präzision, Neigungs‑ und Druck­erkennung und Unterstützung für Handflächen­erkennung. Unglaublich einfach zu benutzen und immer bereit für deine Ideen.</p><p>Der Apple Pencil der zweiten Generation haftet magnetisch an der Seite deines iPad Pro, verbindet sich automatisch und lädt sich unterwegs auf. Der Apple Pencil (2. Generation) liefert pixelgenaue Präzision und eine branchenführende niedrige Latenz. Damit ist er ideal, um zu zeichnen, zu skizzieren, etwas auszumalen, Notizen zu machen, E-Mails zu kommentieren und mehr. Und er lässt sich genauso einfach und natürlich benutzen wie ein normaler Stift.</p><p>Durch die intuitive Touch Oberfläche, die Doppeltippen unterstützt, kannst du mit dem Apple Pencil (2. Generation) ausserdem Werkzeuge wechseln, ohne ihn abzusetzen. Der Apple Pencil der zweiten Generation wurde für das iPad Pro und das iPad Air entwickelt und hat eine flache Seite, die magnetisch am iPad haftet und so automatisches Laden und Koppeln ermöglicht.</p>",
+                "tab-spec": "<p><strong>PASSENDE MARKE<br></strong>Apple</p><p><strong>TYP<br></strong>Stylus</p><p><strong>STIFTSPITZE</strong><br>Feinde Spitze</p><p><strong>VERBINDUNG</strong><br>Bluetooth</p><p><strong>GRÖSSE</strong><br>16.6 x 0.9, 20.7g</p>",
+                "image-with-the-price-tag": {
+                    "fileId": "62f3ba14f4e3f7a773eaee06",
+                    "url": "https://uploads-ssl.webflow.com/62a1a51f676e59213961f1a2/62a1a51f676e591f9161f8dc_Apple%20Pencil2_HeroImage.png",
+                    "alt": null
+                },
+                "_cid": "62f3ba14f4e3f7056beae80a",
+                "_id": "62f3ba14f4e3f75039eaec1f",
+                "hasCorruptVariants": false
+            },
+            "skus": [
+                {
+                    "_archived": false,
+                    "_draft": false,
+                    "main-image": {
+                        "fileId": "62f3ba14f4e3f715a3eaee0a",
+                        "url": "https://uploads-ssl.webflow.com/62a1a51f676e59213961f1a2/62a1a51f676e59846061f8dd_Apple%20Pencil2_ProductView1.png",
+                        "alt": null
+                    },
+                    "price": {
+                        "value": 990,
+                        "unit": "CHF"
+                    },
+                    "sku-values": {
+                        "a5c0245e90c50393a90e8570c2b93ebb": "a10916b71b52458ab8a579296587e1e7"
+                    },
+                    "more-images": [],
+                    "download-files": [],
+                    "name": "Apple Pencil (2nd Generation) Mindestmietdauer (in Monaten): 6+",
+                    "sku": "88-0000-06",
+                    "slug": "apple-pencil-2nd-generation-mindestmietdauer-in-monaten-6",
+                    "product": "62f3ba14f4e3f75039eaec1f",
+                    "updated-on": "2022-06-06T22:17:35.420Z",
+                    "updated-by": "Person_61448830203e445829eda6fc",
+                    "created-on": "2022-04-05T09:37:14.506Z",
+                    "created-by": "Person_612e18b0c237d5969c4b793d",
+                    "published-on": "2022-08-10T14:01:27.937Z",
+                    "published-by": "Person_60c74c7904ca1d8dd12da332",
+                    "_cid": "62f3ba14f4e3f71f87eae81e",
+                    "_id": "62f3ba14f4e3f7ab41eaec22"
+                },
+                {
+                    "_archived": false,
+                    "_draft": false,
+                    "main-image": {
+                        "fileId": "62f3ba14f4e3f715a3eaee0a",
+                        "url": "https://uploads-ssl.webflow.com/62a1a51f676e59213961f1a2/62a1a51f676e59846061f8dd_Apple%20Pencil2_ProductView1.png",
+                        "alt": null
+                    },
+                    "price": {
+                        "value": 690,
+                        "unit": "CHF"
+                    },
+                    "sku-values": {
+                        "a5c0245e90c50393a90e8570c2b93ebb": "e3be8b9a9231fa753745c98241f9107f"
+                    },
+                    "more-images": [],
+                    "download-files": [],
+                    "name": "Apple Pencil (2nd Generation) Mindestmietdauer (in Monaten): 12+",
+                    "sku": "88-0000-12",
+                    "slug": "apple-pencil-2nd-generation-mindestmietdauer-in-monaten-12",
+                    "product": "62f3ba14f4e3f75039eaec1f",
+                    "updated-on": "2022-06-06T22:17:35.028Z",
+                    "updated-by": "Person_61448830203e445829eda6fc",
+                    "created-on": "2022-04-05T09:37:14.297Z",
+                    "created-by": "Person_612e18b0c237d5969c4b793d",
+                    "published-on": "2022-08-10T14:01:27.937Z",
+                    "published-by": "Person_60c74c7904ca1d8dd12da332",
+                    "_cid": "62f3ba14f4e3f71f87eae81e",
+                    "_id": "62f3ba14f4e3f76642eaec21"
+                },
+                {
+                    "_archived": false,
+                    "_draft": false,
+                    "main-image": {
+                        "fileId": "62f3ba14f4e3f715a3eaee0a",
+                        "url": "https://uploads-ssl.webflow.com/62a1a51f676e59213961f1a2/62a1a51f676e59846061f8dd_Apple%20Pencil2_ProductView1.png",
+                        "alt": null
+                    },
+                    "price": {
+                        "value": 1290,
+                        "unit": "CHF"
+                    },
+                    "sku-values": {
+                        "a5c0245e90c50393a90e8570c2b93ebb": "6ca6a873457bfab71952ce8c92c366d9"
+                    },
+                    "more-images": [],
+                    "download-files": [],
+                    "name": "Apple Pencil (2nd Generation) Mindestmietdauer (in Monaten): 3+",
+                    "sku": "88-0000-03",
+                    "slug": "apple-pencil-2nd-generation-mindestmietdauer-in-monaten-3",
+                    "product": "62f3ba14f4e3f75039eaec1f",
+                    "updated-on": "2022-06-06T22:17:34.932Z",
+                    "updated-by": "Person_61448830203e445829eda6fc",
+                    "created-on": "2022-04-05T09:37:14.206Z",
+                    "created-by": "Person_612e18b0c237d5969c4b793d",
+                    "published-on": "2022-08-10T14:01:27.937Z",
+                    "published-by": "Person_60c74c7904ca1d8dd12da332",
+                    "_cid": "62f3ba14f4e3f71f87eae81e",
+                    "_id": "62f3ba14f4e3f7096ceaec20"
+                },
+                {
+                    "_archived": false,
+                    "_draft": false,
+                    "price": {
+                        "value": 1790,
+                        "unit": "CHF"
+                    },
+                    "sku-values": {
+                        "a5c0245e90c50393a90e8570c2b93ebb": "97983ceeec8da429955ed483cd8957aa"
+                    },
+                    "sku": "88-0000-01",
+                    "more-images": [],
+                    "download-files": [],
+                    "name": "Apple Pencil (2nd Generation) Mindestmietdauer (in Monaten): 1+",
+                    "slug": "apple-pencil-2nd-generation-mindestmietdauer-in-monaten-1",
+                    "product": "62f3ba14f4e3f75039eaec1f",
+                    "updated-on": "2022-06-06T22:17:34.976Z",
+                    "updated-by": "Person_61448830203e445829eda6fc",
+                    "created-on": "2022-04-05T09:27:49.156Z",
+                    "created-by": "Person_612e18b0c237d5969c4b793d",
+                    "published-on": "2022-08-10T14:01:27.937Z",
+                    "published-by": "Person_60c74c7904ca1d8dd12da332",
+                    "main-image": {
+                        "fileId": "62f3ba14f4e3f715a3eaee0a",
+                        "url": "https://uploads-ssl.webflow.com/62a1a51f676e59213961f1a2/62a1a51f676e59846061f8dd_Apple%20Pencil2_ProductView1.png",
+                        "alt": null
+                    },
+                    "_cid": "62f3ba14f4e3f71f87eae81e",
+                    "_id": "62f3ba14f4e3f7c85aeaec23"
+                }
+            ]
+        }
+    ],
+    "count": 10,
+    "limit": 10,
+    "offset": 6,
+    "total": 106,
+    "hasMore": true
+}

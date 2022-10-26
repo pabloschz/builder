@@ -11,9 +11,9 @@ import {
 
 // Initialize the Builder SDK with your organization's API Key
 // Find the API Key on: https://builder.io/account/settings
-builder.init(process.env.BUILDER_TOKEN);
+builder.init(process.env.BUILDER_PUBLIC_KEY);
 
-export async function getStaticProps({ params }) {
+export async function getStaticProps({ params, resolvedUrl }) {
   // Fetch the first page from Builder that matches the current URL.
   // Use the `userAttributes` field for targeting content.
   // For more, see https://www.builder.io/c/docs/targeting-with-builder
@@ -25,9 +25,14 @@ export async function getStaticProps({ params }) {
     })
     .toPromise();
 
+  const header = await builder.get("header", { url: resolvedUrl }).promise();
+  const footer = await builder.get("footer", { url: resolvedUrl }).promise();
+
   return {
     props: {
       page: page || null,
+      header: header || null,
+      footer: footer || null,
     },
     revalidate: 5,
   };
@@ -49,7 +54,7 @@ export async function getStaticPaths() {
   };
 }
 
-export default function Page({ page }) {
+export default function Page({ page, header, footer }) {
   const router = useRouter();
   //  This flag indicates if you are viewing the page in the Builder editor.
   const isPreviewing = useIsPreviewing();
@@ -71,53 +76,10 @@ export default function Page({ page }) {
         <title>{page?.data.title}</title>
         <meta name="description" content={page?.data.descripton} />
       </Head>
-      <div style={{ padding: 50, textAlign: "center" }}>
-        {/* Put your header or main layout here */}
-        Your header
-      </div>
 
-      {/* Render the Builder page */}
+      <BuilderComponent model="header" content={header} />
       <BuilderComponent model="page" content={page} />
-
-      <div style={{ padding: 50, textAlign: "center" }}>
-        {/* Put your footer or main layout here */}
-        Your footer
-      </div>
+      <BuilderComponent model="footer" content={footer} />
     </>
   );
 }
-
-//  This is an example of registering a custom component to be used in Builder.io.
-//  You would typically do this in the file where the component is defined.
-
-const MyCustomComponent = (props) => (
-  <div>
-    <h1>{props.title}</h1>
-    <p>{props.description}</p>
-  </div>
-);
-
-//  This is a minimal example of a custom component, you can view more complex input types here:
-//  https://www.builder.io/c/docs/custom-react-components#input-types
-Builder.registerComponent(MyCustomComponent, {
-  name: "ExampleCustomComponent",
-  inputs: [
-    {
-      name: "title",
-      type: "string",
-      defaultValue: "I am a React component! just testing",
-    },
-    {
-      name: "description",
-      type: "string",
-      defaultValue: "Find my source in /pages/[...page].js",
-    },
-  ],
-});
-
-// Register a custom insert menu to organize your custom componnets
-// https://www.builder.io/c/docs/custom-components-visual-editor#:~:text=than%20this%20screenshot.-,organizing%20your%20components%20in%20custom%20sections,-You%20can%20create
-Builder.register("insertMenu", {
-  name: "My Components",
-  items: [{ item: "ExampleCustomComponent", name: "My React Component" }],
-});
